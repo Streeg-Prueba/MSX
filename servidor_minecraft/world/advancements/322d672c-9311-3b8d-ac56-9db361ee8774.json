@@ -757,5 +757,11 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-01-31 23:27:00 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
