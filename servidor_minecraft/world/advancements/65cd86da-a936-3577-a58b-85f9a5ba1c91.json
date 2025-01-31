@@ -427,9 +427,14 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2025-01-31 23:46:15 +0000",
+      "rocky_shrubland": "2025-01-31 23:47:37 +0000",
+      "highland": "2025-01-31 23:42:27 +0000",
+      "spider_nest": "2025-01-31 23:44:48 +0000",
       "rocky_rainforest": "2025-01-31 23:16:34 +0000",
       "volcanic_plains": "2025-01-31 23:27:58 +0000",
       "grassland": "2025-01-31 23:35:51 +0000",
+      "glowing_grotto": "2025-01-31 23:45:14 +0000",
       "rainforest": "2025-01-31 23:27:23 +0000"
     },
     "done": false
@@ -458,6 +463,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-01-31 23:42:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-01-31 23:21:22 +0000"
@@ -476,15 +487,45 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/spruce": {
+    "criteria": {
+      "has_planks": "2025-01-31 23:51:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_pendant": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/hammocks/rat_hammock_magenta": {
     "criteria": {
       "has_string": "2025-01-31 23:28:46 +0000"
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/armor_upgrade": {
+    "criteria": {
+      "has_iron": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/poison_upgrade": {
     "criteria": {
       "has_eye": "2025-01-31 23:28:46 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_bed": {
+    "criteria": {
+      "has_wool": "2025-01-31 23:43:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-01-31 23:47:09 +0000"
     },
     "done": true
   },
@@ -500,9 +541,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-01-31 23:52:38 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-31 23:51:02 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_loom": {
     "criteria": {
       "has_string": "2025-01-31 23:28:46 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/dried_sinew": {
+    "criteria": {
+      "has_item": "2025-01-31 23:47:07 +0000"
     },
     "done": true
   },
@@ -518,9 +577,45 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/spruce_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-31 23:50:59 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/hunter/item_med_chair": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
+  "intensehorror:the_harbinger_of_catastrophe": {
+    "criteria": {
+      "the_harbinger_of_catastrophe": "2025-01-31 23:52:01 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-01-31 23:27:12 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_spruce_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-31 23:50:59 +0000"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/tools/iron_wand": {
+    "criteria": {
+      "has_item": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/sinew_fiber": {
+    "criteria": {
+      "has_item": "2025-01-31 23:47:07 +0000"
     },
     "done": true
   },
@@ -548,6 +643,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/chef/little_black_squash_balls": {
+    "criteria": {
+      "has_input": "2025-01-31 23:44:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-01-31 23:24:48 +0000"
@@ -557,6 +664,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-01-31 23:24:48 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/curtains": {
+    "criteria": {
+      "has_wood": "2025-01-31 23:43:29 +0000"
     },
     "done": true
   },
@@ -584,6 +697,12 @@
     },
     "done": false
   },
+  "corail_dt:recipes/corail_dt/disk_3_2": {
+    "criteria": {
+      "requirement1": "2025-01-31 23:53:03 +0000"
+    },
+    "done": false
+  },
   "corail_dt:recipes/corail_dt/disk_3_1": {
     "criteria": {
       "requirement1": "2025-01-31 23:24:48 +0000"
@@ -597,9 +716,21 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/gutters": {
+    "criteria": {
+      "has_planks": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/stone_pickaxe_repairing": {
     "criteria": {
       "has_stone_pickaxe": "2025-01-31 23:24:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-01-31 23:42:44 +0000"
     },
     "done": true
   },
@@ -612,6 +743,12 @@
   "rats:recipes/building_blocks/rat_crafting_table": {
     "criteria": {
       "has_table": "2025-01-31 23:21:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-31 23:53:03 +0000"
     },
     "done": true
   },
@@ -630,6 +767,18 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-01-31 23:39:37 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/crucifix_enhanced": {
+    "criteria": {
+      "iron": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-31 23:49:07 +0000"
     },
     "done": true
   },
@@ -652,6 +801,18 @@
     },
     "done": false
   },
+  "aether:recipes/tools/aether_saddle": {
+    "criteria": {
+      "has_leather": "2025-01-31 23:42:44 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/vampire/blood_infused_iron_ingot": {
+    "criteria": {
+      "has_iron": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
       "in_water": "2025-01-31 23:27:12 +0000"
@@ -664,9 +825,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/rough_rod2": {
     "criteria": {
       "has_item": "2025-01-31 23:21:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-01-31 23:43:49 +0000"
     },
     "done": true
   },
@@ -679,6 +852,12 @@
   "mcwwindows:recipes/components": {
     "criteria": {
       "has_wood": "2025-01-31 23:21:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-31 23:53:03 +0000"
     },
     "done": true
   },
@@ -709,6 +888,12 @@
   "rats:recipes/combat/chef_toque": {
     "criteria": {
       "has_string": "2025-01-31 23:28:46 +0000"
+    },
+    "done": true
+  },
+  "giacomos_fishing_net:recipes/misc/unlock_strings_recipe": {
+    "criteria": {
+      "has_wool": "2025-01-31 23:43:29 +0000"
     },
     "done": true
   },
@@ -766,6 +951,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-01-31 23:42:44 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/farmer_upgrade": {
     "criteria": {
       "has_seeds": "2025-01-31 23:21:25 +0000"
@@ -775,6 +966,12 @@
   "mcwwindows:recipes/parapets": {
     "criteria": {
       "has_wood": "2025-01-31 23:24:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-01-31 23:50:59 +0000"
     },
     "done": true
   },
@@ -796,6 +993,18 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/asbestos_upgrade": {
+    "criteria": {
+      "has_wool": "2025-01-31 23:43:29 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/altar_tip": {
+    "criteria": {
+      "has_iron": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
   "corail_dt:recipes/misc/disk_0_0": {
     "criteria": {
       "requirement1": "2025-01-31 23:24:17 +0000"
@@ -805,6 +1014,12 @@
   "corail_dt:recipes/misc/disk_0_1": {
     "criteria": {
       "requirement1": "2025-01-31 23:24:48 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/misc/disk_0_2": {
+    "criteria": {
+      "requirement1": "2025-01-31 23:53:03 +0000"
     },
     "done": false
   },
@@ -820,6 +1035,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/iron_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
   "corail_dt:recipes/corail_dt/disk_2_1": {
     "criteria": {
       "requirement1": "2025-01-31 23:24:48 +0000"
@@ -829,6 +1050,12 @@
   "corail_dt:recipes/corail_dt/disk_2_0": {
     "criteria": {
       "requirement1": "2025-01-31 23:24:17 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/corail_dt/disk_2_2": {
+    "criteria": {
+      "requirement1": "2025-01-31 23:53:03 +0000"
     },
     "done": false
   },
@@ -874,6 +1101,30 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/sturdy_repair_kit": {
+    "criteria": {
+      "has_item": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-01-31 23:50:59 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/blood_container": {
+    "criteria": {
+      "has_iron": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/mahogany_fence": {
     "criteria": {
       "has_planks": "2025-01-31 23:35:17 +0000"
@@ -898,6 +1149,30 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_gloves": {
+    "criteria": {
+      "has_iron": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
+  "intensehorror:the_horror_has_arrived": {
+    "criteria": {
+      "the_horror_has_arrived": "2025-01-31 23:48:14 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-01-31 23:42:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-01-31 23:42:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-01-31 23:24:17 +0000"
@@ -910,6 +1185,36 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-01-31 23:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2025-01-31 23:49:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-31 23:50:59 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/candle_stick": {
+    "criteria": {
+      "has_iron": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-01-31 23:24:48 +0000"
@@ -919,6 +1224,12 @@
   "mcwwindows:recipes/quartz": {
     "criteria": {
       "has_the_recipe": "2025-01-31 23:21:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-31 23:53:03 +0000"
     },
     "done": true
   },
@@ -970,6 +1281,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-01-31 23:42:44 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/metal": {
+    "criteria": {
+      "has_wood": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-31 23:42:48 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/chandelier": {
     "criteria": {
       "has_string": "2025-01-31 23:28:46 +0000"
@@ -991,6 +1326,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-01-31 23:32:28 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-01-31 23:51:02 +0000"
     },
     "done": true
   },
@@ -1024,6 +1365,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/bridge_lantern": {
+    "criteria": {
+      "has_planks": "2025-01-31 23:44:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-01-31 23:21:22 +0000"
@@ -1033,6 +1380,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-01-31 23:24:48 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/iron_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-31 23:53:03 +0000"
     },
     "done": true
   },
@@ -1048,6 +1401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-01-31 23:20:37 +0000"
@@ -1060,6 +1419,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/hunter/weapon_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/hammocks/rat_hammock_lime": {
     "criteria": {
       "has_string": "2025-01-31 23:28:46 +0000"
@@ -1069,6 +1434,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-01-31 23:21:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-01-31 23:43:49 +0000"
     },
     "done": true
   },
@@ -1108,9 +1479,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-01-31 23:42:44 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/white_cape": {
+    "criteria": {
+      "has_white_wool": "2025-01-31 23:43:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-01-31 23:24:48 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/iron_rod": {
+    "criteria": {
+      "has_item": "2025-01-31 23:53:03 +0000"
     },
     "done": true
   },
@@ -1126,6 +1515,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/milker_upgrade": {
+    "criteria": {
+      "has_leather": "2025-01-31 23:42:44 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/stone": {
     "criteria": {
       "has_the_recipe": "2025-01-31 23:21:21 +0000"
@@ -1135,6 +1530,18 @@
   "corail_dt:recipes/misc/dust_0": {
     "criteria": {
       "requirement0": "2025-01-31 23:21:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-01-31 23:43:29 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/idol_upgrade": {
+    "criteria": {
+      "has_gold": "2025-01-31 23:52:38 +0000"
     },
     "done": true
   },
@@ -1169,9 +1576,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/iron_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/asian_red_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-31 23:24:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2025-01-31 23:42:44 +0000"
     },
     "done": true
   },
@@ -1199,6 +1618,19 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-01-31 23:42:48 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/misc/hopper_null": {
+    "criteria": {
+      "has_the_recipe": "2025-01-31 23:53:03 +0000",
+      "requirement0": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/hammocks/rat_hammock_cyan": {
     "criteria": {
       "has_string": "2025-01-31 23:28:46 +0000"
@@ -1217,6 +1649,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/coffin_white": {
+    "criteria": {
+      "has_wool": "2025-01-31 23:43:29 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/funeral_theft": {
     "criteria": {
       "coded_trigger": "2025-01-31 23:21:25 +0000"
@@ -1226,6 +1664,12 @@
   "mcwwindows:recipes/jungle": {
     "criteria": {
       "has_the_recipe": "2025-01-31 23:21:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-31 23:53:03 +0000"
     },
     "done": true
   },
@@ -1247,9 +1691,33 @@
     },
     "done": true
   },
+  "corail_dt:recipes/corail_dt/disk_4_2": {
+    "criteria": {
+      "requirement1": "2025-01-31 23:53:03 +0000"
+    },
+    "done": false
+  },
   "silentgear:recipes/misc/upgrade_base": {
     "criteria": {
       "has_item": "2025-01-31 23:24:17 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/christmas_upgrade": {
+    "criteria": {
+      "has_coal": "2025-01-31 23:44:58 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/awning": {
+    "criteria": {
+      "has_planks": "2025-01-31 23:43:29 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/item_tent": {
+    "criteria": {
+      "has_wool": "2025-01-31 23:43:29 +0000"
     },
     "done": true
   },
@@ -1271,6 +1739,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/grave_cage": {
+    "criteria": {
+      "has_coal": "2025-01-31 23:44:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-01-31 23:43:49 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mining_boat": {
     "criteria": {
       "in_water": "2025-01-31 23:27:12 +0000"
@@ -1280,6 +1766,12 @@
   "rats:recipes/misc/upgrades/disenchanter_upgrade": {
     "criteria": {
       "has_book": "2025-01-31 23:39:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-01-31 23:42:44 +0000"
     },
     "done": true
   },
@@ -1313,6 +1805,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/crossbow_upgrade": {
+    "criteria": {
+      "has_iron": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/skyroot_lectern": {
     "criteria": {
       "has_book": "2025-01-31 23:39:37 +0000"
@@ -1325,9 +1823,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/holy_greatsword": {
+    "criteria": {
+      "has_item": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-01-31 23:24:17 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/rat_wheel": {
+    "criteria": {
+      "has_iron": "2025-01-31 23:53:03 +0000"
     },
     "done": true
   },
@@ -1355,9 +1871,21 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/stone_torch": {
+    "criteria": {
+      "has_item": "2025-01-31 23:44:58 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2025-01-31 23:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-31 23:53:03 +0000"
     },
     "done": true
   },
@@ -1379,6 +1907,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-01-31 23:32:28 +0000"
@@ -1391,15 +1925,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/misc/vampire_beacon": {
     "criteria": {
       "has_obsidian": "2025-01-31 23:39:23 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2025-01-31 23:25:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-01-31 23:50:59 +0000"
     },
     "done": true
   },
@@ -1412,6 +1964,12 @@
   "mcwpaths:recipes/oak": {
     "criteria": {
       "has_wood": "2025-01-31 23:24:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-01-31 23:43:29 +0000"
     },
     "done": true
   },
@@ -1440,6 +1998,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/spruce_planks": {
+    "criteria": {
+      "has_planks": "2025-01-31 23:50:59 +0000"
+    },
+    "done": true
+  },
   "corail_dt:recipes/misc/disk_3_0": {
     "criteria": {
       "requirement1": "2025-01-31 23:24:17 +0000"
@@ -1452,6 +2016,18 @@
     },
     "done": false
   },
+  "corail_dt:recipes/misc/disk_3_2": {
+    "criteria": {
+      "requirement1": "2025-01-31 23:53:03 +0000"
+    },
+    "done": false
+  },
+  "mcwlights:recipes/lava_lamp": {
+    "criteria": {
+      "has_wood": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-01-31 23:27:12 +0000"
@@ -1461,6 +2037,12 @@
   "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-31 23:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-31 23:53:03 +0000"
     },
     "done": true
   },
@@ -1494,9 +2076,21 @@
     },
     "done": true
   },
+  "vampirism:recipes/misc/vampire/blood_infused_enhanced_iron_ingot": {
+    "criteria": {
+      "has_iron": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2025-01-31 23:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-31 23:53:03 +0000"
     },
     "done": true
   },
@@ -1518,9 +2112,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-01-31 23:51:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-01-31 23:36:16 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/corail_dt/hopper_null": {
+    "criteria": {
+      "requirement0": "2025-01-31 23:53:03 +0000"
     },
     "done": true
   },
@@ -1548,6 +2154,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/hammocks/rat_hammock_green": {
     "criteria": {
       "has_string": "2025-01-31 23:28:46 +0000"
@@ -1569,6 +2181,12 @@
   "corail_dt:recipes/misc/disk_4_1": {
     "criteria": {
       "requirement1": "2025-01-31 23:24:48 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/misc/disk_4_2": {
+    "criteria": {
+      "requirement1": "2025-01-31 23:53:03 +0000"
     },
     "done": false
   },
@@ -1638,6 +2256,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-01-31 23:43:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-01-31 23:27:12 +0000"
@@ -1656,15 +2280,39 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/coffin_gray": {
+    "criteria": {
+      "has_wool": "2025-01-31 23:43:49 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-01-31 23:27:12 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-01-31 23:44:58 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/tools/rat_whistle": {
+    "criteria": {
+      "has_iron": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/misc/vampire/blood_bottle_to_glass": {
     "criteria": {
       "has_blood_bottle": "2025-01-31 23:32:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-01-31 23:50:59 +0000"
     },
     "done": true
   },
@@ -1692,9 +2340,33 @@
     },
     "done": true
   },
+  "rats:recipes/building_blocks/trash_can": {
+    "criteria": {
+      "has_ingot": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/oak_rail_bridge": {
     "criteria": {
       "has_planks": "2025-01-31 23:24:17 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/tools/rat_sack": {
+    "criteria": {
+      "has_leather": "2025-01-31 23:42:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-31 23:53:03 +0000"
     },
     "done": true
   },
@@ -1716,9 +2388,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/iron_stuff": {
+    "criteria": {
+      "has_wood": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/skyroot_bookshelf": {
     "criteria": {
       "has_book": "2025-01-31 23:39:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-31 23:53:03 +0000"
     },
     "done": true
   },
@@ -1727,6 +2417,12 @@
       "pickaxe": "2025-01-31 23:24:42 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-01-31 23:51:02 +0000"
+    },
+    "done": true
   },
   "mcwwindows:recipes/granite": {
     "criteria": {
@@ -1743,6 +2439,12 @@
   "mcwbridges:recipes/oak_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-31 23:21:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-31 23:53:03 +0000"
     },
     "done": true
   },
@@ -1782,9 +2484,33 @@
     },
     "done": true
   },
+  "aether:recipes/combat/skyroot_iron_vanilla_shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-01-31 23:50:59 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2025-01-31 23:27:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-31 23:42:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-01-31 23:47:09 +0000"
     },
     "done": true
   },
@@ -1842,6 +2568,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-01-31 23:43:29 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/chicken_mount_upgrade": {
     "criteria": {
       "has_seeds": "2025-01-31 23:21:25 +0000"
@@ -1866,9 +2598,27 @@
     },
     "done": false
   },
+  "corail_dt:recipes/corail_dt/disk_1_2": {
+    "criteria": {
+      "requirement1": "2025-01-31 23:53:03 +0000"
+    },
+    "done": false
+  },
+  "rats:recipes/decorations/rat_trap": {
+    "criteria": {
+      "has_iron": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-01-31 23:21:22 +0000"
+    },
+    "done": true
+  },
+  "intensehorror:survived_the_nightmare": {
+    "criteria": {
+      "survived_the_nightmare": "2025-01-31 23:52:27 +0000"
     },
     "done": true
   },
@@ -1920,6 +2670,12 @@
     },
     "done": true
   },
+  "corail_dt:recipes/misc/disk_1_2": {
+    "criteria": {
+      "requirement1": "2025-01-31 23:53:03 +0000"
+    },
+    "done": false
+  },
   "corail_dt:recipes/misc/disk_1_0": {
     "criteria": {
       "requirement1": "2025-01-31 23:24:17 +0000"
@@ -1932,15 +2688,99 @@
     },
     "done": false
   },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-01-31 23:42:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-31 23:24:17 +0000"
     },
     "done": true
   },
+  "vampirism:recipes/combat/weapontable/crucifix_ultimate": {
+    "criteria": {
+      "gold": "2025-01-31 23:52:38 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/hunter/alchemical_cauldron": {
+    "criteria": {
+      "has_iron": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/hammocks/rat_hammock_yellow": {
     "criteria": {
       "has_string": "2025-01-31 23:28:46 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/hunter/crossbow_arrow_normal": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/platter_upgrade": {
+    "criteria": {
+      "has_iron": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/candelabra_candles": {
+    "criteria": {
+      "has_iron": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-31 23:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-01-31 23:47:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_ring": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-01-31 23:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-31 23:50:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-31 23:47:09 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-01-31 23:51:02 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/shears_upgrade": {
+    "criteria": {
+      "has_wool": "2025-01-31 23:43:29 +0000"
     },
     "done": true
   },
@@ -2001,6 +2841,12 @@
   "rats:recipes/misc/hammocks/rat_hammock_pink": {
     "criteria": {
       "has_string": "2025-01-31 23:28:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-31 23:53:03 +0000"
     },
     "done": true
   },
@@ -2065,6 +2911,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2025-01-31 23:46:20 +0000"
+    },
+    "done": false
+  },
+  "intensehorror:sweet_victory": {
+    "criteria": {
+      "sweet_victory": "2025-01-31 23:42:43 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/prismarine": {
     "criteria": {
       "has_the_recipe": "2025-01-31 23:21:21 +0000"
@@ -2095,6 +2953,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2025-01-31 23:44:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-01-31 23:24:48 +0000"
@@ -2113,9 +2977,27 @@
     },
     "done": false
   },
+  "corail_dt:recipes/corail_dt/disk_0_2": {
+    "criteria": {
+      "requirement1": "2025-01-31 23:53:03 +0000"
+    },
+    "done": false
+  },
   "rats:recipes/tools/patrol_stick": {
     "criteria": {
       "has_stick": "2025-01-31 23:21:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-31 23:50:59 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_clothing_legs": {
+    "criteria": {
+      "has_wool": "2025-01-31 23:43:49 +0000"
     },
     "done": true
   },
@@ -2128,6 +3010,18 @@
   "mcwwindows:recipes/metal": {
     "criteria": {
       "has_the_recipe": "2025-01-31 23:21:21 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/pliers": {
+    "criteria": {
+      "has_planks": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/dragon_wing": {
+    "criteria": {
+      "has_leather": "2025-01-31 23:42:44 +0000"
     },
     "done": true
   },
@@ -2155,6 +3049,12 @@
     },
     "done": false
   },
+  "corail_dt:recipes/misc/disk_2_2": {
+    "criteria": {
+      "requirement1": "2025-01-31 23:53:03 +0000"
+    },
+    "done": false
+  },
   "corail_dt:recipes/misc/disk_2_0": {
     "criteria": {
       "requirement1": "2025-01-31 23:24:17 +0000"
@@ -2167,6 +3067,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/stone_brick_bridge": {
     "criteria": {
       "has_planks": "2025-01-31 23:32:28 +0000"
@@ -2176,6 +3082,18 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-01-31 23:27:12 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/garden_light": {
+    "criteria": {
+      "has_wood": "2025-01-31 23:53:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-01-31 23:42:48 +0000"
     },
     "done": true
   },

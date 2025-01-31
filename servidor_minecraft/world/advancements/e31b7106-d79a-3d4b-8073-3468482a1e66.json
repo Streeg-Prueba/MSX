@@ -458,6 +458,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "highland": "2025-01-31 23:46:21 +0000",
       "rocky_rainforest": "2025-01-31 03:59:53 +0000",
       "volcanic_plains": "2025-01-31 04:02:47 +0000",
       "grassland": "2025-01-31 23:37:17 +0000",
@@ -486,6 +487,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-01-31 23:27:45 +0000",
+      "bread": "2025-01-31 23:52:52 +0000",
       "rotten_flesh": "2025-01-31 04:06:51 +0000",
       "glow_berries": "2025-01-31 04:05:58 +0000"
     },
@@ -1935,9 +1937,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-01-31 23:51:15 +0000"
+    },
+    "done": true
+  },
+  "intensehorror:the_harbinger_of_catastrophe": {
+    "criteria": {
+      "the_harbinger_of_catastrophe": "2025-01-31 23:50:50 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/rat_burger": {
+    "criteria": {
+      "has_bread": "2025-01-31 23:48:47 +0000"
+    },
+    "done": true
+  },
   "infusedfoods:recipes/tools/infusion_station": {
     "criteria": {
       "has_blaze_rod": "2025-01-31 23:38:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-01-31 23:51:15 +0000"
     },
     "done": true
   },
@@ -1947,9 +1973,81 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-31 23:48:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/aether_saddle": {
+    "criteria": {
+      "has_leather": "2025-01-31 23:51:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-01-31 23:51:15 +0000"
+    },
+    "done": true
+  },
+  "intensehorror:the_horror_has_arrived": {
+    "criteria": {
+      "the_horror_has_arrived": "2025-01-31 23:48:14 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-01-31 23:51:15 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/food/general/garlic_bread": {
+    "criteria": {
+      "has_bread": "2025-01-31 23:48:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-01-31 23:51:15 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/health_upgrade": {
+    "criteria": {
+      "has_bread": "2025-01-31 23:48:47 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/dragon_staff": {
     "criteria": {
       "has_item": "2025-01-31 23:38:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-01-31 23:51:15 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/milker_upgrade": {
+    "criteria": {
+      "has_leather": "2025-01-31 23:51:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2025-01-31 23:51:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-01-31 23:51:15 +0000"
     },
     "done": true
   },
@@ -1965,6 +2063,24 @@
     },
     "done": true
   },
+  "rats:recipes/tools/rat_sack": {
+    "criteria": {
+      "has_leather": "2025-01-31 23:51:15 +0000"
+    },
+    "done": true
+  },
+  "intensehorror:survived_the_nightmare": {
+    "criteria": {
+      "survived_the_nightmare": "2025-01-31 23:52:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-01-31 23:51:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-01-31 23:38:47 +0000"
@@ -1974,6 +2090,12 @@
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-01-31 23:32:37 +0000"
+    },
+    "done": true
+  },
+  "intensehorror:sweet_victory": {
+    "criteria": {
+      "sweet_victory": "2025-01-31 23:51:15 +0000"
     },
     "done": true
   },
