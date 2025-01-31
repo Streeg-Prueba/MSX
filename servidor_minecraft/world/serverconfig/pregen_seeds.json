@@ -1,38 +1,46 @@
 {
 	"level_seeds": [
 		{
-			"dim": "aether:the_aether",
-			"seed": 1755860457217038944
-		},
-		{
-			"dim": "minecraft:overworld",
-			"seed": 1755860457217038944
-		},
-		{
-			"dim": "minecraft:the_end",
-			"seed": 1755860457217038944
+			"dim": "twilightforest:twilight_forest",
+			"seed": -2529913666297583084
 		},
 		{
 			"dim": "minecraft:the_nether",
-			"seed": 1755860457217038944
+			"seed": -2529913666297583084
+		},
+		{
+			"dim": "aether:the_aether",
+			"seed": -2529913666297583084
+		},
+		{
+			"dim": "minecraft:the_end",
+			"seed": -2529913666297583084
+		},
+		{
+			"dim": "minecraft:overworld",
+			"seed": -2529913666297583084
 		}
 	],
 	"structure_seeds": [
 		{
-			"dim": "aether:the_aether",
-			"seed": 1755860457217038944
-		},
-		{
-			"dim": "minecraft:overworld",
-			"seed": 1755860457217038944
-		},
-		{
-			"dim": "minecraft:the_end",
-			"seed": 1755860457217038944
+			"dim": "twilightforest:twilight_forest",
+			"seed": -2529913666297583084
 		},
 		{
 			"dim": "minecraft:the_nether",
-			"seed": 1755860457217038944
+			"seed": -2529913666297583084
+		},
+		{
+			"dim": "aether:the_aether",
+			"seed": -2529913666297583084
+		},
+		{
+			"dim": "minecraft:the_end",
+			"seed": -2529913666297583084
+		},
+		{
+			"dim": "minecraft:overworld",
+			"seed": -2529913666297583084
 		}
 	]
 }
