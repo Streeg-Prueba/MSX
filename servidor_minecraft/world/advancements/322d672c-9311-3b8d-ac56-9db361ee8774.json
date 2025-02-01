@@ -445,9 +445,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-01-31 23:58:32 +0000",
       "minecraft:lukewarm_ocean": "2025-01-31 04:38:57 +0000",
       "minecraft:river": "2025-01-31 23:35:46 +0000",
-      "minecraft:stony_shore": "2025-01-31 04:35:15 +0000"
+      "minecraft:stony_shore": "2025-01-31 04:35:15 +0000",
+      "minecraft:meadow": "2025-02-01 00:01:29 +0000"
     },
     "done": false
   },
@@ -459,6 +461,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2025-01-31 23:59:08 +0000",
       "highland": "2025-01-31 23:37:58 +0000",
       "rocky_rainforest": "2025-01-31 04:37:33 +0000",
       "grassland": "2025-01-31 23:37:01 +0000"
@@ -910,6 +913,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-31 23:55:49 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/bottler_upgrade": {
     "criteria": {
       "has_bottle": "2025-01-31 23:40:38 +0000"
@@ -987,6 +996,12 @@
       "the_horror_has_arrived": "2025-01-31 23:48:14 +0000"
     },
     "done": true
+  },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2025-01-31 23:55:55 +0000"
+    },
+    "done": false
   },
   "vampirism:recipes/food/general/garlic_bread": {
     "criteria": {
@@ -1223,6 +1238,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2025-02-01 00:00:53 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/tools/cheese_stick": {
     "criteria": {
       "has_stick": "2025-01-31 23:37:23 +0000"
@@ -1376,6 +1397,12 @@
   "biomesoplenty:recipes/decorations/mahogany_sign": {
     "criteria": {
       "has_mahogany_planks": "2025-01-31 23:35:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-01-31 23:55:49 +0000"
     },
     "done": true
   },

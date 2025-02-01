@@ -1467,6 +1467,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/misc/gold_nugget_from_accessory_smelting": {
+    "criteria": {
+      "has_ring": "2025-01-31 23:56:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-01-31 23:24:17 +0000"
@@ -2334,6 +2340,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/misc/gold_nugget_from_accessory_blasting": {
+    "criteria": {
+      "has_ring": "2025-01-31 23:56:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-01-31 23:24:17 +0000"
@@ -2865,7 +2877,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-01-31 23:27:15 +0000",
-      "minecraft:stony_shore": "2025-01-31 23:21:55 +0000"
+      "minecraft:stony_shore": "2025-01-31 23:21:55 +0000",
+      "minecraft:dripstone_caves": "2025-02-01 00:00:06 +0000",
+      "minecraft:old_growth_birch_forest": "2025-01-31 23:59:08 +0000"
     },
     "done": false
   },
