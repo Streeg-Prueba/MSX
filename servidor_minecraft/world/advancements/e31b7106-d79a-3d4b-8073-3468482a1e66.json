@@ -490,6 +490,7 @@
       "moor": "2025-02-01 02:08:38 +0000",
       "mediterranean_forest": "2025-02-01 05:18:18 +0000",
       "forested_field": "2025-02-01 04:25:26 +0000",
+      "spider_nest": "2025-02-01 20:59:21 +0000",
       "dryland": "2025-02-01 19:49:56 +0000",
       "volcano": "2025-02-01 19:43:06 +0000",
       "rocky_rainforest": "2025-01-31 03:59:53 +0000",
@@ -7060,6 +7061,12 @@
     },
     "done": true
   },
+  "legendary_monsters:defeat_haunted_guard": {
+    "criteria": {
+      "ambusher": "2025-02-01 20:59:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_bed": {
     "criteria": {
       "has_needed_dye": "2025-02-01 20:46:26 +0000"
@@ -7081,6 +7088,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_blue_dye": "2025-02-01 20:46:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-02-01 21:01:13 +0000"
     },
     "done": true
   },
@@ -7183,6 +7196,12 @@
   "rats:recipes/misc/hammocks/hammock_dyed_blue": {
     "criteria": {
       "has_dye": "2025-02-01 20:46:26 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_haunted_knight": {
+    "criteria": {
+      "ambusher": "2025-02-01 20:59:28 +0000"
     },
     "done": true
   },
