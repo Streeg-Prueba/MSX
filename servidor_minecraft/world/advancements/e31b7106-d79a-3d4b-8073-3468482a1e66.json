@@ -6958,9 +6958,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-02-01 20:52:04 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_blue_from_white": {
+    "criteria": {
+      "has_dye": "2025-02-01 20:46:26 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_typhon": {
     "criteria": {
       "location0": "2025-02-01 20:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2025-02-01 20:46:26 +0000"
     },
     "done": true
   },
@@ -6976,15 +6994,57 @@
     },
     "done": true
   },
+  "rats:recipes/misc/ratbow_essence": {
+    "criteria": {
+      "has_dye": "2025-02-01 20:46:26 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/alchemy_table/alchemy_table/smelt_oil": {
     "criteria": {
       "has_bottles": "2025-02-01 19:56:19 +0000"
     },
     "done": true
   },
+  "rats:recipes/building_blocks/dye_sponge": {
+    "criteria": {
+      "has_dye": "2025-02-01 20:46:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-02-01 20:53:26 +0000"
+    },
+    "done": false
+  },
   "vampirism:recipes/alchemy_table/alchemy_table/healing_oil": {
     "criteria": {
       "has_bottles": "2025-02-01 19:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-02-01 20:46:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-02-01 20:46:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-02-01 20:46:26 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/igloos/rat_igloo_blue": {
+    "criteria": {
+      "has_dye": "2025-02-01 20:46:26 +0000"
     },
     "done": true
   },
@@ -7000,9 +7060,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-02-01 20:46:26 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-02-01 20:52:04 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/alchemy_table/alchemy_table/fire_resistance_oil": {
     "criteria": {
       "has_bottles": "2025-02-01 19:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-02-01 20:46:26 +0000"
     },
     "done": true
   },
@@ -7012,15 +7090,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-02-01 20:52:07 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/alchemy_table/alchemy_table/strength_oil": {
     "criteria": {
       "has_bottles": "2025-02-01 19:56:19 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-02-01 20:46:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2025-02-01 20:46:26 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/alchemy_table/alchemy_table/poison_oil": {
     "criteria": {
       "has_bottles": "2025-02-01 19:56:19 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/tubes/rat_tube_blue": {
+    "criteria": {
+      "has_dye": "2025-02-01 20:46:26 +0000"
     },
     "done": true
   },
@@ -7048,9 +7150,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-02-01 20:46:26 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/alchemy_table/alchemy_table/invisibility_oil": {
     "criteria": {
       "has_bottles": "2025-02-01 19:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-02-01 20:52:04 +0000"
     },
     "done": true
   },
@@ -7063,6 +7177,12 @@
   "vampirism:recipes/alchemy_table/alchemy_table/weakness_oil": {
     "criteria": {
       "has_bottles": "2025-02-01 19:56:19 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/hammock_dyed_blue": {
+    "criteria": {
+      "has_dye": "2025-02-01 20:46:26 +0000"
     },
     "done": true
   },
