@@ -6983,6 +6983,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-02-01 21:10:09 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/alchemy_table/alchemy_table/slow_falling_oil": {
     "criteria": {
       "has_bottles": "2025-02-01 19:56:19 +0000"
@@ -6998,6 +7004,12 @@
   "rats:recipes/misc/ratbow_essence": {
     "criteria": {
       "has_dye": "2025-02-01 20:46:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-02-01 21:09:46 +0000"
     },
     "done": true
   },
@@ -7018,6 +7030,12 @@
       "sugar_cane": "2025-02-01 20:53:26 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-02-01 21:08:39 +0000"
+    },
+    "done": true
   },
   "vampirism:recipes/alchemy_table/alchemy_table/healing_oil": {
     "criteria": {
@@ -7076,6 +7094,12 @@
   "aether:recipes/decorations/skyroot_fletching_table": {
     "criteria": {
       "has_flint": "2025-02-01 20:52:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-01 21:09:46 +0000"
     },
     "done": true
   },
@@ -7160,6 +7184,12 @@
   "vampirism:recipes/alchemy_table/alchemy_table/evasion_oil": {
     "criteria": {
       "has_bottles": "2025-02-01 19:56:19 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_posessed_paladin": {
+    "criteria": {
+      "ambusher": "2025-02-01 21:13:44 +0000"
     },
     "done": true
   },
