@@ -448,8 +448,12 @@
       "minecraft:old_growth_pine_taiga": "2025-02-01 01:08:19 +0000",
       "minecraft:taiga": "2025-02-01 00:58:50 +0000",
       "minecraft:deep_ocean": "2025-02-01 04:43:54 +0000",
+      "minecraft:eroded_badlands": "2025-02-01 19:49:04 +0000",
       "minecraft:birch_forest": "2025-01-31 23:55:15 +0000",
+      "minecraft:wooded_badlands": "2025-02-01 19:47:35 +0000",
+      "minecraft:badlands": "2025-02-01 19:48:00 +0000",
       "minecraft:beach": "2025-02-01 04:39:37 +0000",
+      "minecraft:stony_peaks": "2025-02-01 19:43:32 +0000",
       "minecraft:river": "2025-01-31 04:02:43 +0000",
       "minecraft:stony_shore": "2025-01-31 03:24:18 +0000",
       "minecraft:dripstone_caves": "2025-02-01 01:13:37 +0000",
@@ -459,6 +463,7 @@
       "minecraft:ocean": "2025-02-01 04:47:38 +0000",
       "minecraft:jungle": "2025-02-01 19:22:20 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-02-01 01:08:12 +0000",
+      "minecraft:warm_ocean": "2025-02-01 20:00:35 +0000",
       "minecraft:meadow": "2025-01-31 23:55:17 +0000",
       "minecraft:savanna": "2025-02-01 05:04:07 +0000",
       "minecraft:plains": "2025-02-01 04:47:57 +0000"
@@ -485,6 +490,8 @@
       "moor": "2025-02-01 02:08:38 +0000",
       "mediterranean_forest": "2025-02-01 05:18:18 +0000",
       "forested_field": "2025-02-01 04:25:26 +0000",
+      "dryland": "2025-02-01 19:49:56 +0000",
+      "volcano": "2025-02-01 19:43:06 +0000",
       "rocky_rainforest": "2025-01-31 03:59:53 +0000",
       "volcanic_plains": "2025-01-31 04:02:47 +0000",
       "grassland": "2025-01-31 23:37:17 +0000",
@@ -6900,6 +6907,162 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-02-01 19:22:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-02-01 19:32:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-02-01 19:32:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-01 19:34:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-01 19:34:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-02-01 19:35:31 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:tempest": {
+    "criteria": {
+      "requirement": "2025-02-01 19:36:00 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/leather_from_obi_belt": {
+    "criteria": {
+      "has_obi_belt": "2025-02-01 19:36:50 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/water_breathing_oil": {
+    "criteria": {
+      "has_bottles": "2025-02-01 19:56:19 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2025-02-01 20:02:27 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/slow_falling_oil": {
+    "criteria": {
+      "has_bottles": "2025-02-01 19:56:19 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/jump_oil": {
+    "criteria": {
+      "has_bottles": "2025-02-01 19:56:19 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/smelt_oil": {
+    "criteria": {
+      "has_bottles": "2025-02-01 19:56:19 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/healing_oil": {
+    "criteria": {
+      "has_bottles": "2025-02-01 19:56:19 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/regeneration_oil": {
+    "criteria": {
+      "has_bottles": "2025-02-01 19:56:19 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/swiftness_oil": {
+    "criteria": {
+      "has_bottles": "2025-02-01 19:56:19 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/fire_resistance_oil": {
+    "criteria": {
+      "has_bottles": "2025-02-01 19:56:19 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/slowness_oil": {
+    "criteria": {
+      "has_bottles": "2025-02-01 19:56:19 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/strength_oil": {
+    "criteria": {
+      "has_bottles": "2025-02-01 19:56:19 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/poison_oil": {
+    "criteria": {
+      "has_bottles": "2025-02-01 19:56:19 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/luck_oil": {
+    "criteria": {
+      "has_bottles": "2025-02-01 19:56:19 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/night_vision_oil": {
+    "criteria": {
+      "has_bottles": "2025-02-01 19:56:19 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/support_upgrade": {
+    "criteria": {
+      "has_stand": "2025-02-01 19:56:23 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/evasion_oil": {
+    "criteria": {
+      "has_bottles": "2025-02-01 19:56:19 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/invisibility_oil": {
+    "criteria": {
+      "has_bottles": "2025-02-01 19:56:19 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/teleport_oil": {
+    "criteria": {
+      "has_bottles": "2025-02-01 19:56:19 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/weakness_oil": {
+    "criteria": {
+      "has_bottles": "2025-02-01 19:56:19 +0000"
     },
     "done": true
   },
