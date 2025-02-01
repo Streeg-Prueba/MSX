@@ -528,7 +528,8 @@
       "golden_apple": "2025-02-01 00:01:17 +0000",
       "rotten_flesh": "2025-01-31 04:06:51 +0000",
       "glow_berries": "2025-01-31 04:05:58 +0000",
-      "golden_carrot": "2025-02-01 04:10:03 +0000"
+      "golden_carrot": "2025-02-01 04:10:03 +0000",
+      "carrot": "2025-02-01 23:14:03 +0000"
     },
     "done": false
   },
@@ -7018,9 +7019,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-01 23:00:16 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/alchemy_table/alchemy_table/jump_oil": {
     "criteria": {
       "has_bottles": "2025-02-01 19:56:19 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-02-01 23:00:16 +0000"
     },
     "done": true
   },
@@ -7055,6 +7068,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-01 23:00:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-02-01 21:08:39 +0000"
@@ -7067,6 +7086,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-01 23:00:16 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/alchemy_table/alchemy_table/healing_oil": {
     "criteria": {
       "has_bottles": "2025-02-01 19:56:19 +0000"
@@ -7076,6 +7101,12 @@
   "minecraft:recipes/building_blocks/dye_blue_wool": {
     "criteria": {
       "has_needed_dye": "2025-02-01 20:46:26 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-02-01 23:00:16 +0000"
     },
     "done": true
   },
@@ -7103,9 +7134,21 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/mossy_cobblestone": {
+    "criteria": {
+      "has_wood": "2025-02-01 23:00:16 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/rat_and_crossbones_banner_pattern": {
     "criteria": {
       "has_paper": "2025-02-01 21:18:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-01 23:00:16 +0000"
     },
     "done": true
   },
@@ -7235,6 +7278,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-02-01 22:59:10 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/cheese_banner_pattern": {
     "criteria": {
       "has_paper": "2025-02-01 21:18:31 +0000"
@@ -7259,15 +7308,33 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-02-01 23:00:16 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/rat_banner_pattern": {
     "criteria": {
       "has_paper": "2025-02-01 21:18:31 +0000"
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/placer_upgrade": {
+    "criteria": {
+      "has_cobble": "2025-02-01 23:00:16 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/alchemy_table/alchemy_table/night_vision_oil": {
     "criteria": {
       "has_bottles": "2025-02-01 19:56:19 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-02-01 23:00:16 +0000"
     },
     "done": true
   },
@@ -7313,6 +7380,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-01 23:00:16 +0000"
+    },
+    "done": true
+  },
   "1_splatus:spellbound/weapon/evokers_wrath": {
     "criteria": {
       "evokers_wrath": "2025-02-01 21:37:58 +0000"
@@ -7328,6 +7401,12 @@
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-02-01 21:30:15 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-02-01 23:00:16 +0000"
     },
     "done": true
   },
@@ -7358,6 +7437,18 @@
   "legendary_monsters:defeat_haunted_knight": {
     "criteria": {
       "ambusher": "2025-02-01 20:59:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-01 23:00:16 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-02-01 23:00:16 +0000"
     },
     "done": true
   },
