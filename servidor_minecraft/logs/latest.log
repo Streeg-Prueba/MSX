@@ -1609,3 +1609,157 @@ java.lang.IllegalArgumentException: No enum constant com.eruannie_9.minervillage
 [02Feb2025 05:50:10.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> level
 [02Feb2025 05:50:10.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> 2
 [02Feb2025 05:50:18.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> tonce si funciona 1 vez pero no la 2da ?
+[02Feb2025 05:50:22.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> se
+[02Feb2025 05:50:25.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> en la primera
+[02Feb2025 05:50:26.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> consumio
+[02Feb2025 05:50:30.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> 6k de sangre
+[02Feb2025 05:50:34.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> ahora esta lleno con 10k
+[02Feb2025 05:50:50.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> ahorita me convierto en vampiro y probamos ps
+[02Feb2025 05:50:52.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> 13 m
+[02Feb2025 05:52:33.484] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:52:37.035] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:52:43.682] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:52:43.683] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:52:50.234] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:53:17.585] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:53:23.485] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:54:04.308] [Server thread/WARN] [tombstone/]: The death event of the player JackUchihaUwU was canceled by another mod
+[02Feb2025 05:54:04.320] [Server thread/INFO] [tombstone/]: The player JackUchihaUwU has successfully been saved
+[02Feb2025 05:54:06.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackUchihaUwU has reached the goal [Strong or Careful]
+[02Feb2025 05:54:06.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JackUchihaUwU was slain by Nightmare Stalker, they gave up
+[02Feb2025 05:54:06.268] [Server thread/INFO] [tombstone/]: The player JackUchihaUwU has successfully been saved
+[02Feb2025 05:54:43.349] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackUchihaUwU lost connection: Disconnected
+[02Feb2025 05:54:43.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackUchihaUwU left the game
+[02Feb2025 05:55:29.183] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:55:29.183] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:56:43.719] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JackUchihaUwU[/127.100.26.83:41067] logged in with entity id 19806 at (1263.699999988079, 95.0, 588.6999999880791)
+[02Feb2025 05:56:43.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackUchihaUwU joined the game
+[02Feb2025 05:56:43.780] [Server thread/INFO] [Jade/]: Syncing config to JackUchihaUwU (4e5624e0-08bf-3029-b2a0-ed7d612a48d8)
+[02Feb2025 05:56:45.698] [Server thread/WARN] [de.teamlapen.lib.network.ClientboundUpdateEntityPacket/]: There is nothing to update for entity ServerPlayer['JackUchihaUwU'/19806, l='ServerLevel[world]', x=1263.70, y=95.00, z=588.70, removed=KILLED]
+[02Feb2025 05:57:02.331] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:57:08.986] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:57:29.384] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:57:51.681] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:57:58.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackUchihaUwU was kicked for floating too long!
+[02Feb2025 05:57:58.557] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackUchihaUwU lost connection: Flying is not enabled on this server
+[02Feb2025 05:57:58.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackUchihaUwU left the game
+[02Feb2025 05:57:58.623] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Feb2025 05:58:26.523] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JackUchihaUwU[/127.100.26.83:40527] logged in with entity id 20124 at (1277.8783114229088, 102.7611611466279, 572.9124798063526)
+[02Feb2025 05:58:26.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackUchihaUwU joined the game
+[02Feb2025 05:58:26.595] [Server thread/INFO] [Jade/]: Syncing config to JackUchihaUwU (4e5624e0-08bf-3029-b2a0-ed7d612a48d8)
+[02Feb2025 05:58:26.881] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:58:29.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Teleported Streeg11 to JackUchihaUwU]
+[02Feb2025 05:58:43.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Teleported JackUchihaUwU to Streeg11]
+[02Feb2025 05:59:01.236] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:59:18.688] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:59:34.233] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:59:34.233] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:59:34.233] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:59:35.284] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:59:36.383] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:59:37.930] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:59:38.033] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:59:42.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> se me lagea
+[02Feb2025 05:59:43.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> cuando
+[02Feb2025 05:59:44.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> muero
+[02Feb2025 05:59:47.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> y me saca
+[02Feb2025 05:59:48.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> xd
+[02Feb2025 05:59:53.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> se crashea
+[02Feb2025 05:59:54.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> tranquilo jack yo tmb sere vampiro
+[02Feb2025 05:59:58.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> ahorita sufrimos los 2
+[02Feb2025 05:59:59.134] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:00:05.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> creo q es porq tienes la capacidad de revivir no?
+[02Feb2025 06:00:11.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> si pero
+[02Feb2025 06:00:12.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> si pongo
+[02Feb2025 06:00:13.032] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:00:13.032] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:00:14.680] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:00:14.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> revivir
+[02Feb2025 06:00:15.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> igual
+[02Feb2025 06:00:16.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> es
+[02Feb2025 06:00:22.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> pta
+[02Feb2025 06:00:25.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> tonces no mueras
+[02Feb2025 06:00:26.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> cuidate xd
+[02Feb2025 06:00:31.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> tus mods
+[02Feb2025 06:00:31.682] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:00:31.733] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:00:33.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> bajan
+[02Feb2025 06:00:35.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> un huevo
+[02Feb2025 06:00:35.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> ps
+[02Feb2025 06:00:37.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> que hago
+[02Feb2025 06:00:37.732] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:00:41.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> armate
+[02Feb2025 06:00:42.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> xd
+[02Feb2025 06:00:46.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> no tengo
+[02Feb2025 06:00:46.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> soy
+[02Feb2025 06:00:48.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> pobre
+[02Feb2025 06:00:49.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> dx
+[02Feb2025 06:00:50.731] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:00:52.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> sali
+[02Feb2025 06:00:53.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> farmea p :v
+[02Feb2025 06:00:54.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> a cortar
+[02Feb2025 06:00:56.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> 25
+[02Feb2025 06:00:57.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> talones
+[02Feb2025 06:01:00.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> y me mataron
+[02Feb2025 06:01:01.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> Dxx
+[02Feb2025 06:01:03.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> xd
+[02Feb2025 06:01:07.131] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:01:08.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> mala opcion
+[02Feb2025 06:01:11.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> ponerte vampiro tan temprano xd
+[02Feb2025 06:01:14.482] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:01:14.734] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:01:14.734] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:01:14.734] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:01:19.782] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:01:39.385] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:01:42.033] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:01:47.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> entra dc cholo
+[02Feb2025 06:02:16.884] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:03:15.733] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:03:55.431] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:03:55.432] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:04:05.786] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:04:06.082] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:04:30.235] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:04:50.484] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:05:01.131] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:05:06.906] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackUchihaUwU lost connection: Disconnected
+[02Feb2025 06:05:06.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackUchihaUwU left the game
+[02Feb2025 06:05:16.383] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:05:37.285] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:05:37.285] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:05:47.503] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@488aa5e7[id=<null>,name=JackUchihaUwU,properties={},legacy=false] (/127.100.26.83:54645) lost connection: Disconnected
+[02Feb2025 06:05:49.831] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:05:55.130] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:06:04.031] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:06:05.932] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:06:36.200] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@36c5fd89[id=<null>,name=JackUchihaUwU,properties={},legacy=false] (/127.100.26.83:36529) lost connection: Disconnected
+[02Feb2025 06:06:40.081] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:06:42.983] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:06:42.983] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:07:20.785] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:07:29.855] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3761324c[id=<null>,name=JackUchihaUwU,properties={},legacy=false] (/127.100.26.83:52991) lost connection: Disconnected
+[02Feb2025 06:08:00.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [Bloody Stream]
+[02Feb2025 06:08:12.450] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6e4797a9[id=<null>,name=JackUchihaUwU,properties={},legacy=false] (/127.100.26.83:47437) lost connection: Disconnected
+[02Feb2025 06:08:25.925] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JackUchihaUwU[/127.100.26.83:42375] logged in with entity id 22800 at (1321.6369564311997, 114.0, 546.0609983435138)
+[02Feb2025 06:08:25.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackUchihaUwU joined the game
+[02Feb2025 06:08:26.013] [Server thread/INFO] [Jade/]: Syncing config to JackUchihaUwU (4e5624e0-08bf-3029-b2a0-ed7d612a48d8)
+[02Feb2025 06:10:02.256] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Streeg11 lost connection: Disconnected
+[02Feb2025 06:10:02.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 left the game
+[02Feb2025 06:11:31.799] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4f50750e[id=<null>,name=Streeg11,properties={},legacy=false] (/127.249.135.209:36969) lost connection: Disconnected
+[02Feb2025 06:12:09.500] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5cd63d0f[id=<null>,name=Streeg11,properties={},legacy=false] (/127.249.135.209:34685) lost connection: Disconnected
+[02Feb2025 06:12:49.038] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Streeg11[/127.249.135.209:60463] logged in with entity id 23686 at (1333.9114772773958, 120.0, 550.5435992676115)
+[02Feb2025 06:12:49.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 joined the game
+[02Feb2025 06:12:49.155] [Server thread/INFO] [Jade/]: Syncing config to Streeg11 (e31b7106-d79a-3d4b-8073-3468482a1e66)
+[02Feb2025 06:13:34.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Teleported Streeg11 to JackUchihaUwU]
+[02Feb2025 06:14:57.633] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:17:00.985] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:17:07.836] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:17:07.837] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:17:35.786] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:17:39.584] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:17:46.184] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:17:46.634] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:18:51.883] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:18:51.883] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 06:19:08.083] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
