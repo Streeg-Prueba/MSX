@@ -9053,5 +9053,23 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/remedy_upgrade": {
+    "criteria": {
+      "has_bottle": "2025-02-02 06:26:32 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/hunter/potion_table": {
+    "criteria": {
+      "has_glass_bottle": "2025-02-02 06:26:32 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/crimson_liquid": {
+    "criteria": {
+      "has_bottle": "2025-02-02 06:26:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
