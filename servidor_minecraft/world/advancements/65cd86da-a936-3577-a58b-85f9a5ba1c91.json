@@ -6107,77 +6107,107 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-02 19:50:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-02 19:50:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-02 19:50:34 +0000"
-    },
-    "done": false
-  },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-02-02 19:50:34 +0000"
+      "requirement": "2025-02-02 20:20:45 +0000"
     },
     "done": false
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/building_blocks/mangrove_planks": {
     "criteria": {
-      "log_spam_fixer": "2025-02-02 19:50:34 +0000"
+      "has_logs": "2025-02-02 20:18:22 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "aether:recipes/building_blocks/packed_ice_freezing": {
     "criteria": {
-      "log_spam_fixer": "2025-02-02 19:50:34 +0000"
+      "has_water_bucket": "2025-02-02 20:16:08 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "mcwroofs:recipes/mangrove": {
     "criteria": {
-      "log_spam_fixer": "2025-02-02 19:50:34 +0000"
+      "has_planks": "2025-02-02 20:18:22 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "rats:recipes/misc/rat_water_bottle": {
     "criteria": {
-      "log_spam_fixer": "2025-02-02 19:50:34 +0000"
+      "has_water": "2025-02-02 20:16:08 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "evilcraft:cannibal": {
     "criteria": {
-      "log_spam_fixer": "2025-02-02 19:50:34 +0000"
+      "criteria_0": "2025-02-02 20:14:27 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "log_spam_fixer": "2025-02-02 19:50:34 +0000"
+      "has_water_bucket": "2025-02-02 20:16:08 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "mcwbridges:recipes/mangrove_bridge_pier": {
     "criteria": {
-      "log_spam_fixer": "2025-02-02 19:50:34 +0000"
+      "has_planks": "2025-02-02 20:18:22 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "mcwdoors:recipes/mangrove": {
     "criteria": {
-      "log_spam_fixer": "2025-02-02 19:50:34 +0000"
+      "has_wood": "2025-02-02 20:18:22 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-02-02 20:19:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/blue_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-02-02 20:16:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-02-02 20:16:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-02-02 19:57:59 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/mangrove": {
+    "criteria": {
+      "has_wood": "2025-02-02 20:18:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-02-02 20:18:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-02-02 20:19:40 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/concrete": {
+    "criteria": {
+      "has_planks": "2025-02-02 20:19:40 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
