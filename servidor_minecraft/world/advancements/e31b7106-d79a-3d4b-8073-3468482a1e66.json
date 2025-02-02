@@ -461,9 +461,11 @@
       "minecraft:cold_ocean": "2025-02-01 04:28:14 +0000",
       "minecraft:forest": "2025-02-01 04:50:47 +0000",
       "minecraft:deep_cold_ocean": "2025-02-01 04:43:26 +0000",
+      "minecraft:frozen_ocean": "2025-02-02 03:56:39 +0000",
       "minecraft:ocean": "2025-02-01 04:47:38 +0000",
       "minecraft:jungle": "2025-02-01 19:22:20 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-02-01 01:08:12 +0000",
+      "minecraft:snowy_beach": "2025-02-02 03:56:33 +0000",
       "minecraft:warm_ocean": "2025-02-01 20:00:35 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-01 21:31:06 +0000",
       "minecraft:meadow": "2025-01-31 23:55:17 +0000",
@@ -2838,6 +2840,7 @@
   "1_splatus:spellbound/weapon/a": {
     "criteria": {
       "dagger": "2025-02-01 00:00:08 +0000",
+      "blowgun": "2025-02-02 03:56:19 +0000",
       "evokers_wrath": "2025-02-01 21:37:58 +0000",
       "bone_wand": "2025-02-01 00:51:46 +0000",
       "mega_hammer": "2025-02-01 03:16:09 +0000",
@@ -8719,6 +8722,36 @@
     },
     "done": true
   },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2025-02-02 03:41:44 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_spiky_bug": {
+    "criteria": {
+      "spiky_bug": "2025-02-02 03:42:38 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_the_ancient_guardian": {
+    "criteria": {
+      "guardian": "2025-02-02 03:45:41 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_ambusher": {
+    "criteria": {
+      "ambusher": "2025-02-02 03:48:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-02-02 03:49:56 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_mud_bricks_bridge": {
     "criteria": {
       "has_planks": "2025-02-02 03:49:59 +0000"
@@ -8728,18 +8761,6 @@
   "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
     "criteria": {
       "has_mud_bricks": "2025-02-02 03:49:59 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "tomato_seeds": "2025-02-02 03:50:11 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:defeat_the_ancient_guardian": {
-    "criteria": {
-      "guardian": "2025-02-02 03:45:41 +0000"
     },
     "done": true
   },
@@ -8797,27 +8818,99 @@
     },
     "done": true
   },
-  "legendary_monsters:defeat_spiky_bug": {
+  "farmersdelight:main/get_fd_seed": {
     "criteria": {
-      "spiky_bug": "2025-02-02 03:42:38 +0000"
+      "tomato_seeds": "2025-02-02 03:50:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dripstone_block": {
+  "1_splatus:spellbound/weapon/blowgun": {
     "criteria": {
-      "has_pointed_dripstone": "2025-02-02 03:49:56 +0000"
+      "blowgun": "2025-02-02 03:56:19 +0000"
     },
     "done": true
   },
-  "legendary_monsters:defeat_ambusher": {
+  "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
-      "ambusher": "2025-02-02 03:48:17 +0000"
+      "has_quartz_block": "2025-02-02 04:16:25 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_monasteries": {
+  "minecraft:recipes/building_blocks/quartz_bricks": {
     "criteria": {
-      "location0": "2025-02-02 03:41:44 +0000"
+      "has_quartz_block": "2025-02-02 04:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-02-02 04:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-02 04:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-02 04:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-02 04:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-02-02 04:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-02 04:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-02-02 04:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-02-02 04:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-02 04:16:25 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:longsword_plague": {
+    "criteria": {
+      "requirement": "2025-02-02 04:40:44 +0000"
+    },
+    "done": true
+  },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2025-02-02 04:41:05 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-02-02 04:42:44 +0000"
     },
     "done": true
   },
