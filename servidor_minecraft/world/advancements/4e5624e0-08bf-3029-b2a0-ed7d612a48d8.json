@@ -5691,5 +5691,29 @@
     },
     "done": true
   },
+  "rats:contaminated_food": {
+    "criteria": {
+      "find_contaminated_food": "2025-02-02 05:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-02-02 05:37:23 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/beast_mount_upgrade": {
+    "criteria": {
+      "has_leech": "2025-02-02 05:37:23 +0000"
+    },
+    "done": true
+  },
+  "rats:plague_cure": {
+    "criteria": {
+      "discover_leech": "2025-02-02 05:37:23 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
