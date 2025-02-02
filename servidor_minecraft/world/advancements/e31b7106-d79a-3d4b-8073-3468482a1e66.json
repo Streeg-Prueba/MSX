@@ -9157,6 +9157,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/stone_pickaxe_repairing": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-02-02 21:39:36 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/coffin_light_blue_from_white": {
     "criteria": {
       "has_coffin": "2025-02-02 19:15:36 +0000"
@@ -9214,6 +9220,12 @@
   "vampirism:recipes/decorations/vampire/coffin_black_from_white": {
     "criteria": {
       "has_coffin": "2025-02-02 19:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-02-02 21:39:36 +0000"
     },
     "done": true
   },
