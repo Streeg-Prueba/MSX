@@ -9199,6 +9199,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-02-02 22:44:15 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/coffin_gray_from_white": {
     "criteria": {
       "has_coffin": "2025-02-02 19:15:36 +0000"

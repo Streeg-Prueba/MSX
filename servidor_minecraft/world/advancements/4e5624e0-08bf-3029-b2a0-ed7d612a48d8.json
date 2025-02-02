@@ -706,6 +706,7 @@
       "sweet_berries": "2025-02-01 00:01:16 +0000",
       "apple": "2025-02-01 02:47:40 +0000",
       "bread": "2025-01-31 23:44:37 +0000",
+      "golden_apple": "2025-02-02 22:43:34 +0000",
       "mushroom_stew": "2025-02-01 00:08:26 +0000",
       "carrot": "2025-02-01 00:03:26 +0000"
     },
@@ -6350,6 +6351,12 @@
     },
     "done": true
   },
+  "1_splatus:spellbound/unlocked/moonlight_edge": {
+    "criteria": {
+      "blowgun": "2025-02-02 22:43:12 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/food/cooked_rat_campfire": {
     "criteria": {
       "has_rat": "2025-02-02 22:24:46 +0000"
@@ -6365,6 +6372,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-02-02 22:33:07 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/damage_protection_upgrade": {
+    "criteria": {
+      "has_apple": "2025-02-02 22:43:12 +0000"
     },
     "done": true
   },
