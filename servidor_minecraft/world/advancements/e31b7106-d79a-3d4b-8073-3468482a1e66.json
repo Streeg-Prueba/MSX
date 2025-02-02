@@ -523,6 +523,7 @@
     "criteria": {
       "cooked_beef": "2025-01-31 23:27:45 +0000",
       "beef": "2025-02-01 02:58:31 +0000",
+      "baked_potato": "2025-02-02 00:02:02 +0000",
       "apple": "2025-02-01 04:32:01 +0000",
       "bread": "2025-01-31 23:52:52 +0000",
       "golden_apple": "2025-02-01 00:01:17 +0000",
@@ -6959,6 +6960,12 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/sickle_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/alchemy_table/alchemy_table/water_breathing_oil": {
     "criteria": {
       "has_bottles": "2025-02-01 19:56:19 +0000"
@@ -6974,6 +6981,30 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-02-01 21:31:03 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/pickaxe_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/tools/grip_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-02-02 00:01:59 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crossbow_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
     },
     "done": true
   },
@@ -7025,6 +7056,12 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/ring_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/alchemy_table/alchemy_table/jump_oil": {
     "criteria": {
       "has_bottles": "2025-02-01 19:56:19 +0000"
@@ -7052,6 +7089,12 @@
   "vampirism:recipes/alchemy_table/alchemy_table/smelt_oil": {
     "criteria": {
       "has_bottles": "2025-02-01 19:56:19 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/tools/rod_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
     },
     "done": true
   },
@@ -7116,15 +7159,33 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/mattock_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_sword_repairing": {
     "criteria": {
       "has_iron_sword": "2025-02-01 21:37:58 +0000"
     },
     "done": true
   },
+  "silentgear:recipes/misc/paxel_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_carpet": {
     "criteria": {
       "has_needed_dye": "2025-02-01 20:46:26 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/binding_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
     },
     "done": true
   },
@@ -7137,6 +7198,12 @@
   "mcwpaths:recipes/mossy_cobblestone": {
     "criteria": {
       "has_wood": "2025-02-01 23:00:16 +0000"
+    },
+    "done": true
+  },
+  "silentgear:blueprint_paper": {
+    "criteria": {
+      "get_item": "2025-02-01 23:52:32 +0000"
     },
     "done": true
   },
@@ -7158,6 +7225,12 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/shears_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/alchemy_table/alchemy_table/swiftness_oil": {
     "criteria": {
       "has_bottles": "2025-02-01 19:56:19 +0000"
@@ -7173,6 +7246,12 @@
   "minecraft:recipes/building_blocks/dye_blue_bed": {
     "criteria": {
       "has_needed_dye": "2025-02-01 20:46:26 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/helmet_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
     },
     "done": true
   },
@@ -7194,6 +7273,12 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/knife_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/alchemy_table/alchemy_table/fire_resistance_oil": {
     "criteria": {
       "has_bottles": "2025-02-01 19:56:19 +0000"
@@ -7206,9 +7291,21 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/arrow_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_blue_dye": "2025-02-01 20:46:26 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/prospector_hammer_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
     },
     "done": true
   },
@@ -7218,15 +7315,57 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/elytra_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/tools/lining_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/tools/fletching_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/alchemy_table/alchemy_table/slowness_oil": {
     "criteria": {
       "has_bottles": "2025-02-01 19:56:19 +0000"
     },
     "done": true
   },
+  "silentgear:recipes/tools/tip_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/ring_blueprint_alt": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/shield_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-02-01 20:52:07 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/spear_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
     },
     "done": true
   },
@@ -7242,6 +7381,12 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/binding_blueprint_alt": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-02-01 21:18:31 +0000"
@@ -7251,6 +7396,12 @@
   "minecraft:recipes/decorations/blue_candle": {
     "criteria": {
       "has_blue_dye": "2025-02-01 20:46:26 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/katana_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
     },
     "done": true
   },
@@ -7266,9 +7417,27 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/bracelet_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/tools/cord_blueprint_alt": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-02-01 21:30:08 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/bow_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
     },
     "done": true
   },
@@ -7278,9 +7447,39 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/sword_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/totem_of_undying": {
     "criteria": {
       "used_totem": "2025-02-01 22:59:10 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/jeweler_tools": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/boots_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/shovel_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/tools/grip_blueprint_alt": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
     },
     "done": true
   },
@@ -7293,6 +7492,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-02-01 21:30:02 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/bracelet_blueprint_alt": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
     },
     "done": true
   },
@@ -7320,6 +7525,12 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/dagger_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/placer_upgrade": {
     "criteria": {
       "has_cobble": "2025-02-01 23:00:16 +0000"
@@ -7335,6 +7546,24 @@
   "mcwbridges:recipes/mossy_stone_brick_bridge": {
     "criteria": {
       "has_planks": "2025-02-01 23:00:16 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/hammer_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/axe_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/saw_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
     },
     "done": true
   },
@@ -7392,9 +7621,21 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/chestplate_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/alchemy_table/alchemy_table/teleport_oil": {
     "criteria": {
       "has_bottles": "2025-02-01 19:56:19 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/potato_pancake": {
+    "criteria": {
+      "has_potato": "2025-02-02 00:01:59 +0000"
     },
     "done": true
   },
@@ -7404,9 +7645,21 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/machete_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/mossy_cobblestone_bridge_stair": {
     "criteria": {
       "has_planks": "2025-02-01 23:00:16 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/excavator_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
     },
     "done": true
   },
@@ -7422,6 +7675,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-02-02 00:01:59 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/hammocks/hammock_dyed_blue": {
     "criteria": {
       "has_dye": "2025-02-01 20:46:26 +0000"
@@ -7431,6 +7690,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-02-01 21:18:31 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/fishing_rod_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
     },
     "done": true
   },
@@ -7446,9 +7711,21 @@
     },
     "done": true
   },
+  "silentgear:recipes/tools/cord_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/mossy_stone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-02-01 23:00:16 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/hoe_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
     },
     "done": true
   },
@@ -7458,9 +7735,27 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/leggings_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-02-01 21:15:55 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/tools/coating_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/slingshot_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-01 23:52:32 +0000"
     },
     "done": true
   },
