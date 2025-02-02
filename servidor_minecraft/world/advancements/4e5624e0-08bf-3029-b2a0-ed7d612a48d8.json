@@ -5990,6 +5990,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2025-02-02 21:53:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-02 20:07:13 +0000"
@@ -6071,6 +6077,12 @@
   "evilcraft:cannibal": {
     "criteria": {
       "criteria_0": "2025-02-02 20:59:34 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/leather_from_obi_belt": {
+    "criteria": {
+      "has_obi_belt": "2025-02-02 21:59:50 +0000"
     },
     "done": true
   },
