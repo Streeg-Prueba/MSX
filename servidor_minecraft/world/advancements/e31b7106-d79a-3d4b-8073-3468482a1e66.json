@@ -497,6 +497,7 @@
       "rocky_rainforest": "2025-01-31 03:59:53 +0000",
       "volcanic_plains": "2025-01-31 04:02:47 +0000",
       "grassland": "2025-01-31 23:37:17 +0000",
+      "undergrowth": "2025-02-02 00:15:12 +0000",
       "rainforest": "2025-01-31 04:02:44 +0000"
     },
     "done": false
@@ -6960,6 +6961,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/general/totem_top": {
+    "criteria": {
+      "has_obsidian": "2025-02-02 00:09:34 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/sickle_blueprint": {
     "criteria": {
       "has_item": "2025-02-01 23:52:32 +0000"
@@ -6999,6 +7006,12 @@
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2025-02-02 00:01:59 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-02-02 00:15:10 +0000"
     },
     "done": true
   },
@@ -7207,6 +7220,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-02 00:09:34 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/rat_and_crossbones_banner_pattern": {
     "criteria": {
       "has_paper": "2025-02-01 21:18:31 +0000"
@@ -7405,6 +7424,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-02 00:15:10 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/alchemy_table/alchemy_table/poison_oil": {
     "criteria": {
       "has_bottles": "2025-02-01 19:56:19 +0000"
@@ -7474,6 +7499,12 @@
   "silentgear:recipes/misc/shovel_blueprint": {
     "criteria": {
       "has_item": "2025-02-01 23:52:32 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/totem_base": {
+    "criteria": {
+      "has_obsidian": "2025-02-02 00:09:34 +0000"
     },
     "done": true
   },
@@ -7597,6 +7628,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-02 00:15:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-02-01 20:52:04 +0000"
@@ -7669,6 +7706,12 @@
     },
     "done": true
   },
+  "silentgear:nether": {
+    "criteria": {
+      "entered_nether": "2025-02-02 00:15:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2025-02-01 21:30:02 +0000"
@@ -7699,6 +7742,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/flint_and_steel_repairing": {
+    "criteria": {
+      "has_flint_and_steel": "2025-02-02 00:14:51 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:defeat_haunted_knight": {
     "criteria": {
       "ambusher": "2025-02-01 20:59:28 +0000"
@@ -7708,6 +7757,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-01 23:00:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-02-02 00:09:34 +0000"
     },
     "done": true
   },
