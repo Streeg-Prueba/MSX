@@ -6628,5 +6628,23 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/ender_upgrade": {
+    "criteria": {
+      "has_pearl": "2025-02-02 23:08:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-02-02 23:08:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-02-02 23:08:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

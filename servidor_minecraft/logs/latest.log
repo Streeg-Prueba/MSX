@@ -3230,3 +3230,43 @@ java.lang.Throwable: null
 [02Feb2025 23:07:56.930] [Server thread/WARN] [de.teamlapen.lib.network.ClientboundUpdateEntityPacket/]: There is nothing to update for entity ServerPlayer['JackUchihaUwU'/98011, l='ServerLevel[world]', x=1331.61, y=120.00, z=550.56, removed=KILLED]
 [02Feb2025 23:08:14.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Teleported JackUchihaUwU to Streeg11]
 [02Feb2025 23:08:26.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackUchihaUwU has made the advancement [The Most Useful Key]
+[02Feb2025 23:08:32.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackUchihaUwU has reached the goal [A Fast Comeback]
+[02Feb2025 23:08:33.339] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 23:08:33.712] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 23:08:33.712] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 23:08:34.339] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 23:08:34.927] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 23:08:34.927] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 23:08:36.720] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 23:08:37.033] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 23:08:38.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Teleported JackUchihaUwU to Streeg11]
+[02Feb2025 23:08:49.653] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 23:09:45.204] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 23:10:08.004] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 23:10:08.004] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 23:11:07.205] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 23:11:13.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Teleported Streeg11 to JackUchihaUwU]
+[02Feb2025 23:11:24.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inseminador was slain by Vampire Hunter
+[02Feb2025 23:11:24.439] [Server thread/INFO] [tombstone/]: The player inseminador has successfully been saved
+[02Feb2025 23:11:52.351] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 23:12:31.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inseminador was slain by Vampire Hunter
+[02Feb2025 23:12:31.294] [Server thread/INFO] [tombstone/]: The player inseminador has successfully been saved
+[02Feb2025 23:12:34.556] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 23:12:46.851] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 23:13:00.160] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 23:13:28.337] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: inseminador lost connection: Timed out
+[02Feb2025 23:13:28.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inseminador left the game
+[02Feb2025 23:13:55.652] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: inseminador[/127.233.13.83:45037] logged in with entity id 101200 at (1322.3576944142912, 123.92159999847412, 409.6774795134928)
+[02Feb2025 23:13:55.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inseminador joined the game
+[02Feb2025 23:13:55.742] [Server thread/INFO] [Jade/]: Syncing config to inseminador (65cd86da-a936-3577-a58b-85f9a5ba1c91)
+[02Feb2025 23:13:55.858] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 23:14:02.406] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 23:14:44.650] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 23:16:29.008] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 23:17:24.850] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 23:17:35.608] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 23:18:08.577] [Server thread/WARN] [tombstone/]: The death event of the player inseminador was canceled by another mod
+[02Feb2025 23:18:08.585] [Server thread/INFO] [tombstone/]: The player inseminador has successfully been saved
+[02Feb2025 23:18:16.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After inseminador was slain by Nightmare Stalker, they gave up
+[02Feb2025 23:18:16.838] [Server thread/INFO] [tombstone/]: The player inseminador has successfully been saved
+[02Feb2025 23:18:23.765] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
