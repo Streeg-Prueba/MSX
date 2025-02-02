@@ -4702,9 +4702,10 @@
   },
   "vampirism:vampire/bat": {
     "criteria": {
+      "action": "2025-02-02 06:42:35 +0000",
       "main": "2025-02-01 02:17:49 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:vampire/extra_storage": {
     "criteria": {
@@ -5730,6 +5731,12 @@
   "born_in_chaos_v1:the_wind_darkening": {
     "criteria": {
       "the_wind_darkening_0": "2025-02-02 06:37:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_helmet_repairing": {
+    "criteria": {
+      "has_chainmail_helmet": "2025-02-02 06:53:39 +0000"
     },
     "done": true
   },

@@ -9025,9 +9025,10 @@
   },
   "vampirism:vampire/bat": {
     "criteria": {
+      "action": "2025-02-02 06:49:46 +0000",
       "main": "2025-02-02 06:03:56 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:vampire/extra_storage": {
     "criteria": {
