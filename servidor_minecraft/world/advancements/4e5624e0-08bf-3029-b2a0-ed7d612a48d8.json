@@ -6056,6 +6056,12 @@
     },
     "done": true
   },
+  "silentgear:big_job_tools": {
+    "criteria": {
+      "hammer": "2025-02-02 21:17:44 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-02-02 20:07:13 +0000"
@@ -6065,6 +6071,12 @@
   "aether:recipes/building_blocks/blue_ice_freezing": {
     "criteria": {
       "has_water_bucket": "2025-02-02 21:01:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-02-02 21:16:17 +0000"
     },
     "done": true
   },
