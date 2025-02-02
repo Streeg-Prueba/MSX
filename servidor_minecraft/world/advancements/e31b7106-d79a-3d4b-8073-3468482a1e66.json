@@ -9175,6 +9175,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-02-02 22:53:41 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/coffin_red_from_white": {
     "criteria": {
       "has_coffin": "2025-02-02 19:15:36 +0000"
@@ -9238,6 +9244,12 @@
   "vampirism:recipes/decorations/vampire/coffin_black_from_white": {
     "criteria": {
       "has_coffin": "2025-02-02 19:15:36 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_log_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-02-02 22:54:26 +0000"
     },
     "done": true
   },
