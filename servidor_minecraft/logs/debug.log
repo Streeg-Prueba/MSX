@@ -16897,3 +16897,57 @@ java.lang.Throwable: null
 [02Feb2025 22:07:06.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> 2
 [02Feb2025 22:07:08.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> diamantes
 [02Feb2025 22:07:22.152] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:07:57.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 22:07:58.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 22:08:25.256] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:08:25.257] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:08:39.850] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:09:00.104] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:09:09.352] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:09:09.352] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:09:10.081] [Server thread/DEBUG] [Silent Gear/]: Recalculating for Streeg11's Diamond Shovel
+[02Feb2025 22:09:10.082] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -3.0 -> -3.0 (+0.0) - mods: [0, -3]
+[02Feb2025 22:09:10.082] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 70.0 -> 70.0 (+0.0) - mods: [70]
+[02Feb2025 22:09:10.082] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 8.8 -> 8.8 (+0.0) - mods: [8, x1.1]
+[02Feb2025 22:09:10.082] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 3.5975132 -> 3.4504628 (-0.14705038) - mods: [3, +1.5]
+[02Feb2025 22:09:10.082] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 0.8 -> 0.8 (+0.0) - mods: [0.8]
+[02Feb2025 22:09:10.082] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[02Feb2025 22:09:10.082] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 2.0 -> 2.0 (+0.0) - mods: [200%]
+[02Feb2025 22:09:10.082] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 1561.0 -> 1561.0 (+0.0) - mods: [1561]
+[02Feb2025 22:09:10.082] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 10.0 -> 10.0 (+0.0) - mods: [10]
+[02Feb2025 22:09:40.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackUchihaUwU has made the advancement [False Water]
+[02Feb2025 22:09:42.254] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:10:23.952] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:10:27.036] [Server thread/DEBUG] [Silent Gear/]: Recalculating for Streeg11's Iron Pickaxe
+[02Feb2025 22:10:27.037] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -2.8 -> -2.8 (+0.0) - mods: [0, -2.8]
+[02Feb2025 22:10:27.037] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 20.0 -> 20.0 (+0.0) - mods: [20]
+[02Feb2025 22:10:27.037] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 6.6000004 -> 6.6000004 (+0.0) - mods: [6, x1.1]
+[02Feb2025 22:10:27.037] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 3.0 -> 2.89998 (-0.10001993) - mods: [2, +1]
+[02Feb2025 22:10:27.037] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 0.6999999 -> 0.6999999 (+0.0) - mods: [0.7]
+[02Feb2025 22:10:27.037] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[02Feb2025 22:10:27.037] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.0 -> 1.0 (+0.0) - mods: [100%]
+[02Feb2025 22:10:27.037] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 249.99998 -> 249.99998 (+0.0) - mods: [250]
+[02Feb2025 22:10:27.037] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 13.999999 -> 13.999999 (+0.0) - mods: [14]
+[02Feb2025 22:11:05.903] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:11:06.007] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:11:06.007] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:11:06.008] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:11:10.901] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:11:25.655] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:11:44.404] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:11:49.101] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:12:28.581] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: inseminador lost connection: Disconnected
+[02Feb2025 22:12:28.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inseminador left the game
+[02Feb2025 22:12:57.913] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 22:12:57.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 22:13:07.405] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:13:25.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackUchihaUwU has reached the goal [Fighting Nightmares]
+[02Feb2025 22:13:51.251] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:14:07.754] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:14:45.162] [Server thread/WARN] [tombstone/]: The death event of the player JackUchihaUwU was canceled by another mod
+[02Feb2025 22:14:45.192] [Server thread/INFO] [tombstone/]: The player JackUchihaUwU has successfully been saved
+[02Feb2025 22:14:46.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JackUchihaUwU was slain by Zombie Clown, they gave up
+[02Feb2025 22:14:46.741] [Server thread/DEBUG] [tombstone/]: A new grave of the player JackUchihaUwU was created at position [x:1313, y:114, z:542, dim:minecraft:overworld]
+[02Feb2025 22:14:46.814] [Server thread/INFO] [tombstone/]: The player JackUchihaUwU has successfully been saved
+[02Feb2025 22:16:33.716] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackUchihaUwU lost connection: Disconnected
+[02Feb2025 22:16:33.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackUchihaUwU left the game

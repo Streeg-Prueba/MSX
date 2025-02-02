@@ -6002,6 +6002,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-02-02 22:13:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-02-02 20:07:13 +0000"
@@ -6050,6 +6056,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/building_blocks/verglas_block": {
+    "criteria": {
+      "has_item": "2025-02-02 22:09:40 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_mossy_cobblestone_bridge": {
     "criteria": {
       "has_planks": "2025-02-02 21:30:10 +0000"
@@ -6062,6 +6074,12 @@
     },
     "done": true
   },
+  "soulsweapons:verglas": {
+    "criteria": {
+      "item": "2025-02-02 22:09:40 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/rat_water_bottle": {
     "criteria": {
       "has_water": "2025-02-02 21:01:01 +0000"
@@ -6071,6 +6089,12 @@
   "mcwpaths:recipes/mossy_cobblestone": {
     "criteria": {
       "has_wood": "2025-02-02 21:30:10 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/skofnung_stone": {
+    "criteria": {
+      "has_item": "2025-02-02 22:09:40 +0000"
     },
     "done": true
   },
@@ -6110,6 +6134,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/sting": {
+    "criteria": {
+      "has_item": "2025-02-02 22:09:40 +0000"
+    },
+    "done": true
+  },
   "silentgear:big_job_tools": {
     "criteria": {
       "hammer": "2025-02-02 21:17:44 +0000"
@@ -6125,6 +6155,12 @@
   "aether:recipes/building_blocks/blue_ice_freezing": {
     "criteria": {
       "has_water_bucket": "2025-02-02 21:01:01 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/verglas": {
+    "criteria": {
+      "has_item": "2025-02-02 22:09:40 +0000"
     },
     "done": true
   },

@@ -2514,3 +2514,32 @@ java.lang.Throwable: null
 [02Feb2025 22:07:06.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> 2
 [02Feb2025 22:07:08.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> diamantes
 [02Feb2025 22:07:22.152] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:08:25.256] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:08:25.257] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:08:39.850] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:09:00.104] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:09:09.352] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:09:09.352] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:09:40.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackUchihaUwU has made the advancement [False Water]
+[02Feb2025 22:09:42.254] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:10:23.952] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:11:05.903] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:11:06.007] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:11:06.007] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:11:06.008] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:11:10.901] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:11:25.655] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:11:44.404] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:11:49.101] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:12:28.581] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: inseminador lost connection: Disconnected
+[02Feb2025 22:12:28.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inseminador left the game
+[02Feb2025 22:13:07.405] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:13:25.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackUchihaUwU has reached the goal [Fighting Nightmares]
+[02Feb2025 22:13:51.251] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:14:07.754] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:14:45.162] [Server thread/WARN] [tombstone/]: The death event of the player JackUchihaUwU was canceled by another mod
+[02Feb2025 22:14:45.192] [Server thread/INFO] [tombstone/]: The player JackUchihaUwU has successfully been saved
+[02Feb2025 22:14:46.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JackUchihaUwU was slain by Zombie Clown, they gave up
+[02Feb2025 22:14:46.814] [Server thread/INFO] [tombstone/]: The player JackUchihaUwU has successfully been saved
+[02Feb2025 22:16:33.716] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackUchihaUwU lost connection: Disconnected
+[02Feb2025 22:16:33.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackUchihaUwU left the game
