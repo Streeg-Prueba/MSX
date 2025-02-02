@@ -6326,6 +6326,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_slabs": "2025-02-02 22:33:07 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/tools/rat_capture_net": {
     "criteria": {
       "has_iron": "2025-02-02 22:22:50 +0000"
@@ -6338,6 +6344,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-02-02 22:33:07 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/food/cooked_rat_campfire": {
     "criteria": {
       "has_rat": "2025-02-02 22:24:46 +0000"
@@ -6347,6 +6359,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-02-02 22:22:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-02-02 22:33:07 +0000"
     },
     "done": true
   },

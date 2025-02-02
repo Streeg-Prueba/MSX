@@ -17461,3 +17461,63 @@ java.lang.Throwable: null
 [02Feb2025 22:27:57.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Feb2025 22:27:57.937] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02Feb2025 22:27:58.562] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:28:20.923] [Server thread/DEBUG] [Silent Gear/]: Recalculating for Streeg11's Iron Pickaxe
+[02Feb2025 22:28:20.924] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -2.8 -> -2.8 (+0.0) - mods: [0, -2.8]
+[02Feb2025 22:28:20.924] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 20.0 -> 20.0 (+0.0) - mods: [20]
+[02Feb2025 22:28:20.924] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 6.6000004 -> 6.6000004 (+0.0) - mods: [6, x1.1]
+[02Feb2025 22:28:20.924] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 2.79996 -> 2.69994 (-0.10001993) - mods: [2, +1]
+[02Feb2025 22:28:20.924] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 0.6999999 -> 0.6999999 (+0.0) - mods: [0.7]
+[02Feb2025 22:28:20.924] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[02Feb2025 22:28:20.924] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.0 -> 1.0 (+0.0) - mods: [100%]
+[02Feb2025 22:28:20.924] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 249.99998 -> 249.99998 (+0.0) - mods: [250]
+[02Feb2025 22:28:20.924] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 13.999999 -> 13.999999 (+0.0) - mods: [14]
+[02Feb2025 22:28:23.403] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:28:23.403] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:28:53.500] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:28:57.100] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:28:57.101] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:28:57.101] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:28:57.101] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:28:57.251] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:28:57.251] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:29:08.249] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:titanexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:29:53.701] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:29:53.701] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:29:53.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> estrechio
+[02Feb2025 22:29:56.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> prestame
+[02Feb2025 22:29:57.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> tu pico
+[02Feb2025 22:29:58.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> un toque
+[02Feb2025 22:29:59.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> ps
+[02Feb2025 22:30:01.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> ya acabo
+[02Feb2025 22:30:01.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> ando usando xd
+[02Feb2025 22:30:01.651] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:30:01.651] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:30:02.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> :(
+[02Feb2025 22:30:08.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> ven tu yhazlo ps
+[02Feb2025 22:30:09.500] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:30:10.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> no tengo
+[02Feb2025 22:30:11.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> pico
+[02Feb2025 22:30:12.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> dx
+[02Feb2025 22:30:17.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> pero craftea ps
+[02Feb2025 22:30:18.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> :v
+[02Feb2025 22:30:19.753] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:30:36.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> consigue lo q te dije ps
+[02Feb2025 22:30:41.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> y te lo hago
+[02Feb2025 22:31:26.965] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/81577, l='ServerLevel[world]', x=1416.67, y=128.56, z=605.14] died, message: 'Farmer was slain by Beast Patient'
+[02Feb2025 22:31:29.452] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:31:29.452] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:32:57.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 22:32:57.961] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 22:33:19.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Teleported Streeg11 to JackUchihaUwU]
+[02Feb2025 22:34:08.749] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:34:59.100] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:36:16.298] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:36:35.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> xdxds
+[02Feb2025 22:36:37.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> xdxdxd
+[02Feb2025 22:36:38.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> XD
+[02Feb2025 22:37:05.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> nada alejado de la realidad
+[02Feb2025 22:37:06.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> :v
+[02Feb2025 22:37:22.100] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:37:22.100] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 22:37:57.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 22:37:57.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
