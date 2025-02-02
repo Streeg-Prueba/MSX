@@ -9138,5 +9138,89 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/coffin_brown_from_white": {
+    "criteria": {
+      "has_coffin": "2025-02-02 19:15:36 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_cyan_from_white": {
+    "criteria": {
+      "has_coffin": "2025-02-02 19:15:36 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_yellow_from_white": {
+    "criteria": {
+      "has_coffin": "2025-02-02 19:15:36 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_light_blue_from_white": {
+    "criteria": {
+      "has_coffin": "2025-02-02 19:15:36 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_red_from_white": {
+    "criteria": {
+      "has_coffin": "2025-02-02 19:15:36 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_pink_from_white": {
+    "criteria": {
+      "has_coffin": "2025-02-02 19:15:36 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_light_gray_from_white": {
+    "criteria": {
+      "has_coffin": "2025-02-02 19:15:36 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_gray_from_white": {
+    "criteria": {
+      "has_coffin": "2025-02-02 19:15:36 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_green_from_white": {
+    "criteria": {
+      "has_coffin": "2025-02-02 19:15:36 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_orange_from_white": {
+    "criteria": {
+      "has_coffin": "2025-02-02 19:15:36 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_purple_from_white": {
+    "criteria": {
+      "has_coffin": "2025-02-02 19:15:36 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_lime_from_white": {
+    "criteria": {
+      "has_coffin": "2025-02-02 19:15:36 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_black_from_white": {
+    "criteria": {
+      "has_coffin": "2025-02-02 19:15:36 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_magenta_from_white": {
+    "criteria": {
+      "has_coffin": "2025-02-02 19:15:36 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
