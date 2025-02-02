@@ -433,6 +433,7 @@
       "clover_patch": "2025-02-01 03:07:27 +0000",
       "maple_woods": "2025-01-31 23:58:50 +0000",
       "field": "2025-02-01 01:31:19 +0000",
+      "moor": "2025-02-02 01:50:18 +0000",
       "forested_field": "2025-02-01 01:31:25 +0000",
       "spider_nest": "2025-02-01 03:05:51 +0000",
       "rocky_rainforest": "2025-01-31 23:37:10 +0000",
@@ -1855,12 +1856,6 @@
     },
     "done": true
   },
-  "intensehorror:the_horror_has_arrived": {
-    "criteria": {
-      "the_horror_has_arrived": "2025-01-31 23:48:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-01-31 23:48:50 +0000"
@@ -1894,12 +1889,6 @@
   "rats:recipes/building_blocks/rat_attractor": {
     "criteria": {
       "has_lantern": "2025-01-31 23:52:10 +0000"
-    },
-    "done": true
-  },
-  "intensehorror:survived_the_nightmare": {
-    "criteria": {
-      "survived_the_nightmare": "2025-01-31 23:52:27 +0000"
     },
     "done": true
   },
@@ -2616,7 +2605,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-02-01 00:05:49 +0000",
       "minecraft:spider": "2025-02-01 03:11:44 +0000",
-      "minecraft:husk": "2025-02-01 00:09:50 +0000"
+      "minecraft:husk": "2025-02-01 00:09:50 +0000",
+      "minecraft:zombie": "2025-02-02 01:50:44 +0000"
     },
     "done": false
   },
@@ -2647,12 +2637,6 @@
   "farmersdelight:recipes/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2025-02-01 00:06:01 +0000"
-    },
-    "done": true
-  },
-  "intensehorror:golden_treat": {
-    "criteria": {
-      "golden_treat": "2025-02-01 00:06:39 +0000"
     },
     "done": true
   },
@@ -3809,12 +3793,6 @@
     },
     "done": true
   },
-  "intensehorror:sweet_victory": {
-    "criteria": {
-      "sweet_victory": "2025-02-01 01:16:14 +0000"
-    },
-    "done": true
-  },
   "evilcraft:root": {
     "criteria": {
       "criteria_0": "2025-02-01 01:17:41 +0000"
@@ -4753,18 +4731,6 @@
     },
     "done": true
   },
-  "intensehorror:one_two_freddys_coming_for_you": {
-    "criteria": {
-      "one_two_freddys_coming_for_you": "2025-02-01 02:20:39 +0000"
-    },
-    "done": true
-  },
-  "intensehorror:no_more_headache": {
-    "criteria": {
-      "no_more_headache": "2025-02-01 02:37:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-01 02:40:09 +0000"
@@ -5659,78 +5625,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-02 00:23:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-02 00:23:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-02 00:23:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-02 00:23:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-02 00:23:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-02 00:23:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-02 00:23:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-02 00:23:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-02 00:23:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-02 00:23:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-02 00:23:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-02 00:23:29 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-02-01 05:24:02 +0000"
@@ -5760,6 +5654,114 @@
       "has_blood_bottle": "2025-02-02 00:19:05 +0000"
     },
     "done": true
+  },
+  "legendary_monsters:locate_abandoned_crypt": {
+    "criteria": {
+      "abandoned_crypt": "2025-02-02 01:50:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-02-02 02:04:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-02-02 02:19:38 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/root": {
+    "criteria": {
+      "second": "2025-02-02 02:28:08 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/vampire/garlic_finder": {
+    "criteria": {
+      "has_garlic": "2025-02-02 02:28:08 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/hunter/hunter_table": {
+    "criteria": {
+      "has_fang": "2025-02-02 02:34:05 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-02 02:45:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-02 02:45:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-02 02:45:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-02 02:45:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-02 02:45:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-02 02:45:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-02 02:45:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-02 02:45:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-02 02:45:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-02 02:45:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-02 02:45:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-02 02:45:41 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
