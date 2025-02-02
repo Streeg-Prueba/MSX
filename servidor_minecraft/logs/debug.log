@@ -12551,3 +12551,112 @@ java.lang.IllegalArgumentException: No enum constant com.eruannie_9.minervillage
 [02Feb2025 05:28:07.385] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
 [02Feb2025 05:28:07.385] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
 [02Feb2025 05:29:50.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> q fue mir ey?
+[02Feb2025 05:29:54.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> TOY TONEANDO
+[02Feb2025 05:29:56.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> CON TUJS ALDEANOS
+[02Feb2025 05:29:59.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> NO PUEDO?
+[02Feb2025 05:30:01.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> YA PREÑE
+[02Feb2025 05:30:02.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> 1
+[02Feb2025 05:30:03.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> AHORA SAFO
+[02Feb2025 05:30:05.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> COMO HOTOME
+[02Feb2025 05:30:06.332] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:30:17.445] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[02Feb2025 05:30:17.446] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[02Feb2025 05:30:17.446] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[02Feb2025 05:30:32.394] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 05:30:32.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 05:30:58.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> OE
+[02Feb2025 05:30:58.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> MRD
+[02Feb2025 05:31:02.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> TODAVIA NO MATAS
+[02Feb2025 05:31:05.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> dime
+[02Feb2025 05:31:05.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> A ESE MOD?
+[02Feb2025 05:31:07.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> MOSSY
+[02Feb2025 05:31:09.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> RAID?
+[02Feb2025 05:31:09.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> q mod?
+[02Feb2025 05:31:12.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> no
+[02Feb2025 05:31:14.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> nose donde xuxa ta
+[02Feb2025 05:31:16.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> PALTEAS
+[02Feb2025 05:31:24.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> se creasheo el server 8 neveces
+[02Feb2025 05:31:27.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> intentando ayudar a pato ps
+[02Feb2025 05:31:33.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> DX
+[02Feb2025 05:31:44.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> TOMA
+[02Feb2025 05:31:46.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> UN REGALO
+[02Feb2025 05:31:48.883] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:31:51.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [Where Is The Stone Pen?]
+[02Feb2025 05:32:03.708] [Server thread/DEBUG] [mixin/]: Mixing accessors.item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[02Feb2025 05:32:03.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has reached the goal [Greed may lead to loss]
+[02Feb2025 05:32:04.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [When in Rome]
+[02Feb2025 05:32:05.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> DX
+[02Feb2025 05:32:05.716] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[02Feb2025 05:32:05.718] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[02Feb2025 05:32:05.720] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[02Feb2025 05:32:05.930] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[02Feb2025 05:32:09.435] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:32:11.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Teleported Streeg11 to JackUchihaUwU]
+[02Feb2025 05:32:22.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> DXXDXD
+[02Feb2025 05:32:23.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> XDXDXDXD
+[02Feb2025 05:32:24.932] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:32:25.984] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:32:25.984] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:32:25.984] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:32:25.984] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:32:27.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> q fue rey
+[02Feb2025 05:32:31.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> toy q ardo
+[02Feb2025 05:32:33.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> SOY
+[02Feb2025 05:32:34.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> POBRE
+[02Feb2025 05:32:35.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> :/
+[02Feb2025 05:32:43.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> o yara
+[02Feb2025 05:32:46.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> tu casa abajo xd
+[02Feb2025 05:32:58.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> no rompas mucho en el techo p jack xd
+[02Feb2025 05:33:12.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> terminare
+[02Feb2025 05:33:14.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> la zona de cofres y safo
+[02Feb2025 05:34:11.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> wow jack
+[02Feb2025 05:34:14.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> rompi mucho creo
+[02Feb2025 05:35:32.398] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 05:35:32.424] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 05:35:32.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was slain by Zombie using [Dagger]
+[02Feb2025 05:35:32.796] [Server thread/DEBUG] [tombstone/]: A new grave of the player Streeg11 was created at position [x:1306, y:114, z:552, dim:minecraft:overworld]
+[02Feb2025 05:35:32.906] [Server thread/INFO] [tombstone/]: The player Streeg11 has successfully been saved
+[02Feb2025 05:35:34.739] [Server thread/DEBUG] [twilightforest/]: Player Streeg11 (e31b7106-d79a-3d4b-8073-3468482a1e66) respawned and received items held in storage
+[02Feb2025 05:35:35.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> JAJAAJ
+[02Feb2025 05:35:36.436] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:35:37.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Teleported Streeg11 to JackUchihaUwU]
+[02Feb2025 05:35:38.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> xd
+[02Feb2025 05:35:51.734] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:36:04.132] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:36:04.133] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:36:06.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was slain by Zombie
+[02Feb2025 05:36:06.699] [Server thread/DEBUG] [tombstone/]: A new grave of the player Streeg11 was created at position [x:1330, y:120, z:551, dim:minecraft:overworld]
+[02Feb2025 05:36:06.720] [Server thread/INFO] [tombstone/]: The player Streeg11 has successfully been saved
+[02Feb2025 05:36:08.521] [Server thread/DEBUG] [twilightforest/]: Player Streeg11 (e31b7106-d79a-3d4b-8073-3468482a1e66) respawned and received items held in storage
+[02Feb2025 05:36:08.578] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:36:10.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Teleported Streeg11 to JackUchihaUwU]
+[02Feb2025 05:36:57.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> OE
+[02Feb2025 05:36:58.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> VIEJA
+[02Feb2025 05:37:00.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> ME ESTAS
+[02Feb2025 05:37:02.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> ROBANDO
+[02Feb2025 05:37:03.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> ESPACIO
+[02Feb2025 05:37:19.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> esta es mi habitacion p
+[02Feb2025 05:37:21.583] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:37:22.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> aca voy a poner mi cama uu
+[02Feb2025 05:37:36.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> XD
+[02Feb2025 05:37:48.333] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:37:48.334] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:37:48.334] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:38:22.133] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:38:29.831] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:38:42.183] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:38:42.183] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:38:55.081] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:39:14.030] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:39:14.031] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:39:21.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> TU
+[02Feb2025 05:39:23.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> ME ROBSTE
+[02Feb2025 05:39:25.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> ESPACIO
+[02Feb2025 05:39:27.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> soy
+[02Feb2025 05:39:28.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> peruano
+[02Feb2025 05:39:29.234] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:39:29.235] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 05:39:30.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> es lo q hago
+[02Feb2025 05:39:34.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackUchihaUwU> YO TAMBIEN
+[02Feb2025 05:39:37.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> xd
+[02Feb2025 05:40:05.083] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
