@@ -11902,3 +11902,179 @@ java.lang.IllegalArgumentException: No enum constant com.eruannie_9.minervillage
 [02Feb2025 03:45:32.855] [Server thread/INFO] [tombstone/]: The player Streeg11 has successfully been saved
 [02Feb2025 03:45:34.175] [Server thread/DEBUG] [twilightforest/]: Player Streeg11 (e31b7106-d79a-3d4b-8073-3468482a1e66) respawned and received items held in storage
 [02Feb2025 03:45:41.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has completed the challenge [The One - Armed Monster]
+[02Feb2025 03:46:15.525] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 03:46:37.427] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 03:47:02.077] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 03:47:17.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was slain by Ambusher
+[02Feb2025 03:47:17.339] [Server thread/DEBUG] [tombstone/]: A new grave of the player Streeg11 was created at position [x:3910, y:63, z:120, dim:minecraft:overworld]
+[02Feb2025 03:47:17.362] [Server thread/INFO] [tombstone/]: The player Streeg11 has successfully been saved
+[02Feb2025 03:47:18.719] [Server thread/DEBUG] [twilightforest/]: Player Streeg11 (e31b7106-d79a-3d4b-8073-3468482a1e66) respawned and received items held in storage
+[02Feb2025 03:47:21.189] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.hunter.HunterPlayer/]: Cannot get Hunter player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.player.hunter.HunterPlayer.getOpt(HunterPlayer.java:78) ~[Vampirism-1.20.1-1.10.12.jar%23380!/:1.20.1-1.10.12]
+	at de.teamlapen.vampirism.entity.player.ModPlayerEventHandler.onLivingAttack(ModPlayerEventHandler.java:321) ~[Vampirism-1.20.1-1.10.12.jar%23380!/:1.20.1-1.10.12]
+	at de.teamlapen.vampirism.entity.player.__ModPlayerEventHandler_onLivingAttack_LivingAttackEvent.invoke(.dynamic) ~[Vampirism-1.20.1-1.10.12.jar%23380!/:1.20.1-1.10.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onLivingAttack(ForgeHooks.java:269) ~[forge-1.20.1-47.3.7-universal.jar%23402!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6469_(LivingEntity.java:1059) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at it.hurts.sskirillss.relics.utils.EntityUtils.hurt(EntityUtils.java:226) ~[relics-1.20.1-0.8.0.7.jar%23358!/:1.20.1-0.8.0.7]
+	at it.hurts.sskirillss.relics.entities.SporeEntity.onRemovedFromWorld(SporeEntity.java:155) ~[relics-1.20.1-0.8.0.7.jar%23358!/:1.20.1-0.8.0.7]
+	at net.minecraft.server.level.ServerLevel$EntityCallbacks.m_141981_(ServerLevel.java:1553) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.level.ServerLevel$EntityCallbacks.m_141981_(ServerLevel.java:1488) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157580_(PersistentEntitySectionManager.java:140) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager$Callback.m_142472_(PersistentEntitySectionManager.java:439) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.entity.Entity.m_142467_(Entity.java:3367) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.entity.Entity.m_142687_(Entity.java:354) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.entity.Entity.m_146870_(Entity.java:332) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at it.hurts.sskirillss.relics.entities.SporeEntity.m_8119_(SporeEntity.java:95) ~[relics-1.20.1-0.8.0.7.jar%23358!/:1.20.1-0.8.0.7]
+	at net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:693) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.level.Level.m_46653_(Level.java:479) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:323) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02Feb2025 03:47:24.064] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 03:47:24.089] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 03:47:44.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was slain by Spiky Worm
+[02Feb2025 03:47:44.037] [Server thread/DEBUG] [tombstone/]: A new grave of the player Streeg11 was created at position [x:3909, y:63, z:113, dim:minecraft:overworld]
+[02Feb2025 03:47:44.059] [Server thread/INFO] [tombstone/]: The player Streeg11 has successfully been saved
+[02Feb2025 03:47:45.400] [Server thread/DEBUG] [twilightforest/]: Player Streeg11 (e31b7106-d79a-3d4b-8073-3468482a1e66) respawned and received items held in storage
+[02Feb2025 03:47:58.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was slain by Ambusher
+[02Feb2025 03:47:58.938] [Server thread/DEBUG] [tombstone/]: A new grave of the player Streeg11 was created at position [x:3910, y:64, z:116, dim:minecraft:overworld]
+[02Feb2025 03:47:58.961] [Server thread/INFO] [tombstone/]: The player Streeg11 has successfully been saved
+[02Feb2025 03:48:07.399] [Server thread/DEBUG] [twilightforest/]: Player Streeg11 (e31b7106-d79a-3d4b-8073-3468482a1e66) respawned and received items held in storage
+[02Feb2025 03:48:09.152] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 03:48:17.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [An Imposter]
+[02Feb2025 03:48:23.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was slain by Spiky Worm
+[02Feb2025 03:48:23.451] [Server thread/DEBUG] [tombstone/]: A new grave of the player Streeg11 was created at position [x:3908, y:63, z:123, dim:minecraft:overworld]
+[02Feb2025 03:48:23.454] [Server thread/INFO] [tombstone/]: The player Streeg11 has successfully been saved
+[02Feb2025 03:48:24.745] [Server thread/DEBUG] [twilightforest/]: Player Streeg11 (e31b7106-d79a-3d4b-8073-3468482a1e66) respawned and received items held in storage
+[02Feb2025 03:48:38.975] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 03:49:12.826] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 03:49:50.958] [Server thread/DEBUG] [Silent Gear/]: Recalculating for Streeg11's Crimson Steel Hammer
+[02Feb2025 03:49:50.965] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 10.0 -> 10.0 (+0.0) - mods: [6, +4]
+[02Feb2025 03:49:50.966] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 11.755166 -> 11.758502 (+0.0033359528) - mods: [15, -50%, +15%, x1.2]
+[02Feb2025 03:49:50.966] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 9.5 -> 9.5 (+0.0) - mods: [19, -50%]
+[02Feb2025 03:49:50.966] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 0.9 -> 0.9 (+0.0) - mods: [0.9]
+[02Feb2025 03:49:50.966] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 103.0 -> 103.0 (+0.0) - mods: [83, +20]
+[02Feb2025 03:49:50.966] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 4560.0005 -> 4560.0005 (+0.0) - mods: [2400, +100%, x0.95]
+[02Feb2025 03:49:50.966] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 5.9999995 -> 5.9999995 (+0.0) - mods: [6]
+[02Feb2025 03:49:50.967] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.65 -> 1.65 (+0.0) - mods: [150%, +10%]
+[02Feb2025 03:49:50.967] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -3.1499999 -> -3.1499999 (+0.0) - mods: [-0.1, -3.2, +0.15]
+[02Feb2025 03:50:11.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [Crops of the Wild]
+[02Feb2025 03:50:24.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was slain by Spiky Worm
+[02Feb2025 03:50:24.044] [Server thread/DEBUG] [tombstone/]: A new grave of the player Streeg11 was created at position [x:3912, y:63, z:98, dim:minecraft:overworld]
+[02Feb2025 03:50:24.052] [Server thread/INFO] [tombstone/]: The player Streeg11 has successfully been saved
+[02Feb2025 03:50:25.327] [Server thread/DEBUG] [twilightforest/]: Player Streeg11 (e31b7106-d79a-3d4b-8073-3468482a1e66) respawned and received items held in storage
+[02Feb2025 03:50:36.978] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 03:50:40.679] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 03:50:42.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was slain by Spiky Worm
+[02Feb2025 03:50:42.241] [Server thread/DEBUG] [tombstone/]: A new grave of the player Streeg11 was created at position [x:3913, y:63, z:93, dim:minecraft:overworld]
+[02Feb2025 03:50:42.259] [Server thread/INFO] [tombstone/]: The player Streeg11 has successfully been saved
+[02Feb2025 03:50:44.566] [Server thread/DEBUG] [twilightforest/]: Player Streeg11 (e31b7106-d79a-3d4b-8073-3468482a1e66) respawned and received items held in storage
+[02Feb2025 03:51:36.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was slain by Spiky Worm
+[02Feb2025 03:51:36.005] [Server thread/DEBUG] [tombstone/]: A new grave of the player Streeg11 was created at position [x:3916, y:63, z:122, dim:minecraft:overworld]
+[02Feb2025 03:51:36.013] [Server thread/INFO] [tombstone/]: The player Streeg11 has successfully been saved
+[02Feb2025 03:51:37.424] [Server thread/DEBUG] [twilightforest/]: Player Streeg11 (e31b7106-d79a-3d4b-8073-3468482a1e66) respawned and received items held in storage
+[02Feb2025 03:51:39.194] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.hunter.HunterPlayer/]: Cannot get Hunter player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.player.hunter.HunterPlayer.getOpt(HunterPlayer.java:78) ~[Vampirism-1.20.1-1.10.12.jar%23380!/:1.20.1-1.10.12]
+	at de.teamlapen.vampirism.entity.player.ModPlayerEventHandler.onLivingAttack(ModPlayerEventHandler.java:321) ~[Vampirism-1.20.1-1.10.12.jar%23380!/:1.20.1-1.10.12]
+	at de.teamlapen.vampirism.entity.player.__ModPlayerEventHandler_onLivingAttack_LivingAttackEvent.invoke(.dynamic) ~[Vampirism-1.20.1-1.10.12.jar%23380!/:1.20.1-1.10.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onLivingAttack(ForgeHooks.java:269) ~[forge-1.20.1-47.3.7-universal.jar%23402!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6469_(LivingEntity.java:1059) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at it.hurts.sskirillss.relics.utils.EntityUtils.hurt(EntityUtils.java:226) ~[relics-1.20.1-0.8.0.7.jar%23358!/:1.20.1-0.8.0.7]
+	at it.hurts.sskirillss.relics.entities.SporeEntity.onRemovedFromWorld(SporeEntity.java:155) ~[relics-1.20.1-0.8.0.7.jar%23358!/:1.20.1-0.8.0.7]
+	at net.minecraft.server.level.ServerLevel$EntityCallbacks.m_141981_(ServerLevel.java:1553) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.level.ServerLevel$EntityCallbacks.m_141981_(ServerLevel.java:1488) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157580_(PersistentEntitySectionManager.java:140) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager$Callback.m_142472_(PersistentEntitySectionManager.java:439) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.entity.Entity.m_142467_(Entity.java:3367) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.entity.Entity.m_142687_(Entity.java:354) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.entity.Entity.m_146870_(Entity.java:332) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at it.hurts.sskirillss.relics.entities.SporeEntity.m_8119_(SporeEntity.java:95) ~[relics-1.20.1-0.8.0.7.jar%23358!/:1.20.1-0.8.0.7]
+	at net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:693) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.level.Level.m_46653_(Level.java:479) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:323) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02Feb2025 03:51:56.825] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 03:52:21.480] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 03:52:24.043] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 03:52:24.068] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 03:53:24.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was slain by Skeleton
+[02Feb2025 03:53:24.497] [Server thread/DEBUG] [tombstone/]: A new grave of the player Streeg11 was created at position [x:3908, y:63, z:102, dim:minecraft:overworld]
+[02Feb2025 03:53:24.508] [Server thread/INFO] [tombstone/]: The player Streeg11 has successfully been saved
+[02Feb2025 03:53:25.808] [Server thread/DEBUG] [twilightforest/]: Player Streeg11 (e31b7106-d79a-3d4b-8073-3468482a1e66) respawned and received items held in storage
+[02Feb2025 03:53:29.745] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.hunter.HunterPlayer/]: Cannot get Hunter player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.player.hunter.HunterPlayer.getOpt(HunterPlayer.java:78) ~[Vampirism-1.20.1-1.10.12.jar%23380!/:1.20.1-1.10.12]
+	at de.teamlapen.vampirism.entity.player.ModPlayerEventHandler.onLivingAttack(ModPlayerEventHandler.java:321) ~[Vampirism-1.20.1-1.10.12.jar%23380!/:1.20.1-1.10.12]
+	at de.teamlapen.vampirism.entity.player.__ModPlayerEventHandler_onLivingAttack_LivingAttackEvent.invoke(.dynamic) ~[Vampirism-1.20.1-1.10.12.jar%23380!/:1.20.1-1.10.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onLivingAttack(ForgeHooks.java:269) ~[forge-1.20.1-47.3.7-universal.jar%23402!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6469_(LivingEntity.java:1059) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at it.hurts.sskirillss.relics.utils.EntityUtils.hurt(EntityUtils.java:226) ~[relics-1.20.1-0.8.0.7.jar%23358!/:1.20.1-0.8.0.7]
+	at it.hurts.sskirillss.relics.entities.SporeEntity.onRemovedFromWorld(SporeEntity.java:155) ~[relics-1.20.1-0.8.0.7.jar%23358!/:1.20.1-0.8.0.7]
+	at net.minecraft.server.level.ServerLevel$EntityCallbacks.m_141981_(ServerLevel.java:1553) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.level.ServerLevel$EntityCallbacks.m_141981_(ServerLevel.java:1488) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157580_(PersistentEntitySectionManager.java:140) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager$Callback.m_142472_(PersistentEntitySectionManager.java:439) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.entity.Entity.m_142467_(Entity.java:3367) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.entity.Entity.m_142687_(Entity.java:354) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.entity.Entity.m_146870_(Entity.java:332) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at it.hurts.sskirillss.relics.entities.SporeEntity.m_8119_(SporeEntity.java:95) ~[relics-1.20.1-0.8.0.7.jar%23358!/:1.20.1-0.8.0.7]
+	at net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:693) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.level.Level.m_46653_(Level.java:479) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:323) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02Feb2025 03:53:39.643] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[02Feb2025 03:53:39.643] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[02Feb2025 03:53:39.644] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[02Feb2025 03:53:41.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was slain by Skeleton
+[02Feb2025 03:53:41.195] [Server thread/DEBUG] [tombstone/]: A new grave of the player Streeg11 was created at position [x:3911, y:63, z:97, dim:minecraft:overworld]
+[02Feb2025 03:53:41.212] [Server thread/INFO] [tombstone/]: The player Streeg11 has successfully been saved
+[02Feb2025 03:53:42.558] [Server thread/DEBUG] [twilightforest/]: Player Streeg11 (e31b7106-d79a-3d4b-8073-3468482a1e66) respawned and received items held in storage
+[02Feb2025 03:54:04.484] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[02Feb2025 03:54:13.481] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[02Feb2025 03:54:20.015] [Worker-Main-4/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[02Feb2025 03:54:20.017] [Worker-Main-4/DEBUG] [mixin/]: Mixing MixinJigsawPlacer from vampirism.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[02Feb2025 03:54:21.549] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=3661, y=-36, z=351}
+[02Feb2025 03:54:21.625] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=3671, y=-36, z=352}
+[02Feb2025 03:54:21.627] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=3674, y=-36, z=357}
+[02Feb2025 03:54:25.115] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=3674, y=-36, z=357}
+[02Feb2025 03:54:31.006] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[02Feb2025 03:54:43.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 fell from a high place
+[02Feb2025 03:54:43.512] [Server thread/DEBUG] [tombstone/]: A new grave of the player Streeg11 was created at position [x:3880, y:63, z:160, dim:minecraft:overworld]
+[02Feb2025 03:54:43.513] [Server thread/INFO] [tombstone/]: The player Streeg11 has successfully been saved
+[02Feb2025 03:54:45.289] [Server thread/DEBUG] [twilightforest/]: Player Streeg11 (e31b7106-d79a-3d4b-8073-3468482a1e66) respawned and received items held in storage
+[02Feb2025 03:55:41.865] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=3661, y=-36, z=351}
+[02Feb2025 03:55:41.959] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=3633, y=-36, z=364}
+[02Feb2025 03:55:41.960] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=3671, y=-36, z=352}
+[02Feb2025 03:55:41.961] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=3648, y=-36, z=366}
+[02Feb2025 03:55:41.962] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=3674, y=-36, z=357}
