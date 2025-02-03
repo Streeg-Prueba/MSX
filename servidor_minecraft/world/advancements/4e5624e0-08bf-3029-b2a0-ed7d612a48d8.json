@@ -2612,6 +2612,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-03 05:38:09 +0000",
       "minecraft:skeleton": "2025-02-01 00:05:49 +0000",
       "minecraft:spider": "2025-02-01 03:11:44 +0000",
       "minecraft:husk": "2025-02-01 00:09:50 +0000",
@@ -7072,77 +7073,35 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "evilcraft:evil_source": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 05:20:32 +0000"
+      "criteria_0": "2025-02-03 05:30:29 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 05:20:32 +0000"
+      "cave_tablet": "2025-02-03 05:30:25 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 05:20:32 +0000"
+      "has_wild_armor_trim_smithing_template": "2025-02-03 05:30:39 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 05:20:32 +0000"
+      "has_smithing_trim_template": "2025-02-03 05:30:39 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "tombstone:adventure/ambush": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 05:20:32 +0000"
+      "coded_trigger": "2025-02-03 05:38:09 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 05:20:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 05:20:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 05:20:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 05:20:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 05:20:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 05:20:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 05:20:32 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
