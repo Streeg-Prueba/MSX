@@ -437,6 +437,7 @@
       "coniferous_forest": "2025-02-02 07:11:51 +0000",
       "forested_field": "2025-02-01 01:31:25 +0000",
       "spider_nest": "2025-02-01 03:05:51 +0000",
+      "seasonal_orchard": "2025-02-03 01:50:47 +0000",
       "seasonal_forest": "2025-02-02 07:12:01 +0000",
       "rocky_rainforest": "2025-01-31 23:37:10 +0000",
       "volcanic_plains": "2025-02-01 03:11:36 +0000",
@@ -475,6 +476,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-02-03 01:46:16 +0000",
       "minecraft:old_growth_pine_taiga": "2025-02-01 01:08:49 +0000",
       "minecraft:taiga": "2025-01-31 23:58:41 +0000",
       "minecraft:deep_ocean": "2025-02-01 05:17:47 +0000",
@@ -493,7 +495,8 @@
       "minecraft:old_growth_spruce_taiga": "2025-02-01 01:08:10 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-01 05:16:23 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-31 23:57:35 +0000",
-      "minecraft:meadow": "2025-01-31 23:56:34 +0000"
+      "minecraft:meadow": "2025-01-31 23:56:34 +0000",
+      "minecraft:plains": "2025-02-03 01:12:41 +0000"
     },
     "done": false
   },
@@ -2612,7 +2615,8 @@
       "minecraft:skeleton": "2025-02-01 00:05:49 +0000",
       "minecraft:spider": "2025-02-01 03:11:44 +0000",
       "minecraft:husk": "2025-02-01 00:09:50 +0000",
-      "minecraft:zombie": "2025-02-02 01:50:44 +0000"
+      "minecraft:zombie": "2025-02-02 01:50:44 +0000",
+      "minecraft:zombie_villager": "2025-02-03 00:49:13 +0000"
     },
     "done": false
   },
@@ -4533,7 +4537,9 @@
   },
   "1_splatus:spellbound/weapon/a": {
     "criteria": {
-      "dagger": "2025-02-01 01:54:55 +0000"
+      "dagger": "2025-02-01 01:54:55 +0000",
+      "blowgun": "2025-02-03 01:42:56 +0000",
+      "mega_hammer": "2025-02-03 01:41:31 +0000"
     },
     "done": false
   },
@@ -6748,76 +6754,309 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "silentgear:recipes/misc/leather_from_scraps": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 00:27:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-02-03 00:28:04 +0000",
-      "log_spam_fixer": "2025-02-03 00:27:22 +0000"
+      "has_item": "2025-02-03 00:49:15 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
+  "silentgear:recipes/misc/leather_scrap": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 00:27:22 +0000"
+      "has_item": "2025-02-03 00:49:15 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "rats:recipes/building_blocks/cursed_garbage": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 00:27:22 +0000"
+      "has_garbage": "2025-02-03 00:55:45 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "rats:recipes/building_blocks/purified_garbage": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 00:27:22 +0000"
+      "has_garbage": "2025-02-03 00:55:45 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "rats:rat_trap": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 00:27:22 +0000"
+      "make_trap": "2025-02-03 00:55:45 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "rats:garbage_pile": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 00:27:22 +0000"
+      "garbage_pile": "2025-02-03 00:55:45 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "rats:recipes/building_blocks/compressed_garbage": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 00:27:22 +0000"
+      "has_garbage": "2025-02-03 00:55:45 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "vampirism:recipes/misc/gold_nugget_from_accessory_smelting": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 00:27:22 +0000"
+      "has_amulet": "2025-02-03 01:04:10 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "vampirism:recipes/misc/gold_nugget_from_accessory_blasting": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 00:27:22 +0000"
+      "has_amulet": "2025-02-03 01:04:10 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "born_in_chaos_v1:exorcism": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 00:27:22 +0000"
+      "exorcism_0": "2025-02-03 01:09:06 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "tombstone:adventure/bone_crusher": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 00:27:22 +0000"
+      "coded_trigger": "2025-02-03 01:09:47 +0000"
+    },
+    "done": true
+  },
+  "rats:plague": {
+    "criteria": {
+      "catch_plague": "2025-02-03 01:10:30 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/basic_mount_upgrade": {
+    "criteria": {
+      "has_saddle": "2025-02-03 01:42:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_gloves_repairing": {
+    "criteria": {
+      "has_iron_gloves": "2025-02-03 01:42:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-02-03 01:42:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-02-03 01:42:49 +0000"
+    },
+    "done": true
+  },
+  "morebows:recipes/iron_bow": {
+    "criteria": {
+      "has_bow": "2025-02-03 01:42:56 +0000"
+    },
+    "done": true
+  },
+  "morebows:recipes/stone_bow": {
+    "criteria": {
+      "has_bow": "2025-02-03 01:42:56 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-02-03 01:42:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-02-03 01:42:56 +0000"
+    },
+    "done": true
+  },
+  "morebows:recipes/gold_bow": {
+    "criteria": {
+      "has_bow": "2025-02-03 01:42:56 +0000"
+    },
+    "done": true
+  },
+  "morebows:recipes/diamond_bow": {
+    "criteria": {
+      "has_bow": "2025-02-03 01:42:56 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:spellbound/weapon/blowgun": {
+    "criteria": {
+      "blowgun": "2025-02-03 01:42:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-02-03 01:43:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-02-03 01:43:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-03 01:43:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-02-03 01:43:12 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/aquatic_upgrade": {
+    "criteria": {
+      "has_feesh": "2025-02-03 01:43:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-02-03 01:43:12 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/fisherman_upgrade": {
+    "criteria": {
+      "has_fish": "2025-02-03 01:43:12 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_forlorn_hollows": {
+    "criteria": {
+      "discover": "2025-02-03 01:46:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-03 01:48:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-03 01:48:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-03 01:48:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/deepslate_tile_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-02-03 01:48:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/deepslate_tile_bridge": {
+    "criteria": {
+      "has_planks": "2025-02-03 01:48:06 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/deepslate": {
+    "criteria": {
+      "has_wood": "2025-02-03 01:48:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-03 01:48:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-03 01:48:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_deepslate_tiles_bridge": {
+    "criteria": {
+      "has_planks": "2025-02-03 01:48:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-03 01:48:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-03 01:48:06 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2025-02-03 01:51:05 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/heart_seeker_enhanced_repair": {
+    "criteria": {
+      "has_heart_seeker": "2025-02-03 01:52:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_pickaxe_repairing": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-02-03 01:52:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-02-03 01:52:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/holy_water_bottle_enhanced_from_ultimate": {
+    "criteria": {
+      "has_ultimate_holy_water": "2025-02-03 01:52:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/holy_water_bottle_normal_from_enhanced": {
+    "criteria": {
+      "has_enhanced_holy_water": "2025-02-03 01:52:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-02-03 01:53:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2025-02-03 01:53:31 +0000"
+    },
+    "done": true
+  },
+  "silentgear:nether_plants": {
+    "criteria": {
+      "sapling": "2025-02-03 01:57:49 +0000"
     },
     "done": false
   },
