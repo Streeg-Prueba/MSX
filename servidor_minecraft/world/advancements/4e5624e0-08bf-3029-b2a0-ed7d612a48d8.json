@@ -430,9 +430,11 @@
       "shrubland": "2025-02-01 01:59:53 +0000",
       "rocky_shrubland": "2025-02-01 02:01:17 +0000",
       "highland": "2025-01-31 23:46:16 +0000",
+      "jade_cliffs": "2025-02-03 05:51:39 +0000",
       "clover_patch": "2025-02-01 03:07:27 +0000",
       "maple_woods": "2025-01-31 23:58:50 +0000",
       "field": "2025-02-01 01:31:19 +0000",
+      "lavender_forest": "2025-02-03 05:53:52 +0000",
       "moor": "2025-02-02 01:50:18 +0000",
       "coniferous_forest": "2025-02-02 07:11:51 +0000",
       "forested_field": "2025-02-01 01:31:25 +0000",
@@ -440,6 +442,7 @@
       "seasonal_orchard": "2025-02-03 01:50:47 +0000",
       "seasonal_forest": "2025-02-02 07:12:01 +0000",
       "rocky_rainforest": "2025-01-31 23:37:10 +0000",
+      "pasture": "2025-02-03 05:50:43 +0000",
       "volcanic_plains": "2025-02-01 03:11:36 +0000",
       "fir_clearing": "2025-02-02 07:13:57 +0000",
       "pumpkin_patch": "2025-01-31 23:58:52 +0000",
@@ -480,6 +483,8 @@
       "minecraft:old_growth_pine_taiga": "2025-02-01 01:08:49 +0000",
       "minecraft:taiga": "2025-01-31 23:58:41 +0000",
       "minecraft:deep_ocean": "2025-02-01 05:17:47 +0000",
+      "minecraft:cherry_grove": "2025-02-03 05:49:47 +0000",
+      "minecraft:sunflower_plains": "2025-02-03 05:50:22 +0000",
       "minecraft:birch_forest": "2025-01-31 23:56:31 +0000",
       "minecraft:windswept_hills": "2025-02-01 03:15:46 +0000",
       "minecraft:beach": "2025-02-01 03:16:07 +0000",
@@ -7073,15 +7078,15 @@
     },
     "done": true
   },
-  "evilcraft:evil_source": {
-    "criteria": {
-      "criteria_0": "2025-02-03 05:30:29 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
       "cave_tablet": "2025-02-03 05:30:25 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:evil_source": {
+    "criteria": {
+      "criteria_0": "2025-02-03 05:30:29 +0000"
     },
     "done": true
   },
@@ -7100,6 +7105,18 @@
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-02-03 05:38:09 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/hunter/pure_blood3": {
+    "criteria": {
+      "has_pure_blood": "2025-02-03 05:40:25 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-02-03 05:52:25 +0000"
     },
     "done": true
   },
