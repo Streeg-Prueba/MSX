@@ -459,11 +459,14 @@
       "minecraft:stony_peaks": "2025-02-01 19:43:32 +0000",
       "minecraft:river": "2025-01-31 04:02:43 +0000",
       "minecraft:stony_shore": "2025-01-31 03:24:18 +0000",
+      "minecraft:snowy_plains": "2025-02-03 06:37:24 +0000",
       "minecraft:dripstone_caves": "2025-02-01 01:13:37 +0000",
+      "minecraft:snowy_taiga": "2025-02-03 06:37:04 +0000",
       "minecraft:grove": "2025-02-03 03:16:06 +0000",
       "minecraft:cold_ocean": "2025-02-01 04:28:14 +0000",
       "minecraft:forest": "2025-02-01 04:50:47 +0000",
       "minecraft:deep_cold_ocean": "2025-02-01 04:43:26 +0000",
+      "minecraft:ice_spikes": "2025-02-03 06:39:57 +0000",
       "minecraft:frozen_ocean": "2025-02-02 03:56:39 +0000",
       "minecraft:ocean": "2025-02-01 04:47:38 +0000",
       "minecraft:jungle": "2025-02-01 19:22:20 +0000",
@@ -502,6 +505,7 @@
       "lavender_forest": "2025-02-03 05:27:17 +0000",
       "moor": "2025-02-01 02:08:38 +0000",
       "mediterranean_forest": "2025-02-01 05:18:18 +0000",
+      "coniferous_forest": "2025-02-03 06:31:35 +0000",
       "forested_field": "2025-02-01 04:25:26 +0000",
       "spider_nest": "2025-02-01 20:59:21 +0000",
       "dryland": "2025-02-01 19:49:56 +0000",
@@ -513,10 +517,12 @@
       "lavender_field": "2025-02-03 05:27:19 +0000",
       "grassland": "2025-01-31 23:37:17 +0000",
       "snowy_coniferous_forest": "2025-02-02 03:11:18 +0000",
+      "snowy_fir_clearing": "2025-02-03 06:36:08 +0000",
       "tundra": "2025-02-02 02:32:41 +0000",
       "glowing_grotto": "2025-02-03 02:25:33 +0000",
       "undergrowth": "2025-02-02 00:15:12 +0000",
-      "rainforest": "2025-01-31 04:02:44 +0000"
+      "rainforest": "2025-01-31 04:02:44 +0000",
+      "ominous_woods": "2025-02-03 06:34:21 +0000"
     },
     "done": false
   },
@@ -9830,6 +9836,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-02-03 06:33:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-03 06:28:34 +0000"
@@ -9845,6 +9857,12 @@
   "minecraft:recipes/misc/silence_armor_trim_smithing_template": {
     "criteria": {
       "has_silence_armor_trim_smithing_template": "2025-02-03 05:37:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-02-03 06:31:42 +0000"
     },
     "done": true
   },
@@ -9866,9 +9884,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-02-03 06:31:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
       "has_polished_deepslate": "2025-02-03 05:43:30 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-02-03 06:33:02 +0000"
     },
     "done": true
   },
@@ -9893,6 +9923,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
     "criteria": {
       "has_dark_prismarine": "2025-02-03 06:28:34 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-02-03 06:33:02 +0000"
     },
     "done": true
   },
